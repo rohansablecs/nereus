@@ -1,0 +1,48 @@
+{
+  "dataset": "world_bank_commodity_monthly",
+  "source": "World Bank Commodity Price Data (The Pink Sheet)",
+  "source_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+  "source_workbook": "CMO-Historical-Data-Monthly.xlsx",
+  "source_sheet": "Monthly Prices",
+  "frequency": "monthly",
+  "price_basis": "nominal USD",
+  "source_updated": "2026-09-02",
+  "ingested_at_utc": "2026-09-07T18:38:33.818567+00:00",
+  "series": {
+    "Coal, Australian": {
+      "commodity": "thermal_coal",
+      "market": "Australia",
+      "unit": "USD/mt",
+      "description": "Australian port thermal coal, FOB Newcastle/Port Kembla benchmark as defined by the World Bank."
+    },
+    "Coal, South African **": {
+      "commodity": "thermal_coal",
+      "market": "South_Africa",
+      "unit": "USD/mt",
+      "description": "South African thermal coal, FOB Richards Bay benchmark as defined by the World Bank."
+    },
+    "Iron ore, cfr spot": {
+      "commodity": "iron_ore",
+      "market": "Global_CFR_China",
+      "unit": "USD/dry_mt",
+      "description": "Iron ore fines, 62% Fe, CFR China benchmark as defined by the World Bank."
+    },
+    "Crude oil, Brent": {
+      "commodity": "crude_oil",
+      "market": "Brent",
+      "unit": "USD/bbl",
+      "description": "UK Brent crude oil benchmark."
+    }
+  },
+  "records": 3200,
+  "date_min": "1960-01-01",
+  "date_max": "2026-08-01",
+  "missing_prices": 408,
+  "notes": [
+    "Australian coal series is thermal coal, not coking coal.",
+    "South African coal series is thermal coal.",
+    "Iron ore series represents 62% Fe fines CFR China from December 2008 onward.",
+    "Raw World Bank workbook is preserved separately.",
+    "Missing source observations are preserved as null values."
+  ]
+}

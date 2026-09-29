@@ -1,0 +1,16 @@
+location_id,location_name,country,role,latitude,longitude
+newcastle_au,Newcastle,Australia,origin,-32.92435,151.79096
+hay_point_au,Hay Point,Australia,origin,-21.26667,149.30111
+beira_mz,Beira,Mozambique,origin,-19.81834,34.83555
+maputo_mz,Maputo,Mozambique,origin,-25.96034,32.54528
+vostochny_ru,Vostochny,Russia,origin,42.74150,133.07981
+taman_ru,Taman,Russia,origin,45.12500,36.68306
+samarinda_id,Samarinda,Indonesia,origin,-0.50211,117.15371
+richards_bay_za,Richards Bay,South Africa,origin,-28.78301,32.03767
+paradip_in,Paradip,India,destination,20.26690,86.69970
+dhamra_in,Dhamra,India,destination,20.78330,86.95000
+gopalpur_in,Gopalpur,India,destination,19.26670,84.91670
+visakhapatnam_in,Visakhapatnam,India,destination,17.68680,83.21850
+gangavaram_in,Gangavaram,India,destination,17.62310,83.27490
+haldia_in,Haldia,India,destination,22.02570,88.05830
+sagar_sandheads_in,Sagar-Sandheads,India,destination,21.65000,88.05000

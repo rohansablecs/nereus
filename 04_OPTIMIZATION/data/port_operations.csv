@@ -1,0 +1,9 @@
+port,operation,cargo_type,handling_rate_mt_day,handling_charge_inr_mt,waiting_days,status,source
+Paradip,discharge,coking coal,35059,200.95,,reference_proxy,PPA FY2025-26 average berth productivity; KICT New Coal Berth tariff
+Paradip,discharge,thermal coal,,,,unknown,Paradip Port Authority berth/tariff sources
+Dhamra,discharge,coal,50000,,,observed_reference,Dhamra BPTS
+Dhamra,loading,iron ore,40000,,,observed_reference,Dhamra BPTS
+Gangavaram,discharge,coal,,,,unknown,Gangavaram BPTS
+Gangavaram,loading,coal,,,,unknown,Gangavaram BPTS
+Gopalpur,discharge,dry bulk,,,,unknown,Gopalpur BPTS
+Visakhapatnam,discharge,dry bulk,,,,unknown,Visakhapatnam operational data

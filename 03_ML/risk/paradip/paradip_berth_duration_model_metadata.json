@@ -1,0 +1,17 @@
+{
+  "model": "HistGradientBoostingRegressor",
+  "purpose": "Paradip berth-cycle duration prediction",
+  "target": "berth_duration_days",
+  "features": [
+    "cargo",
+    "berth",
+    "quantity_mt",
+    "dry_bulk_vessels_waiting"
+  ],
+  "training_rows": 683,
+  "training_start": "2025-10-07T02:18:00",
+  "training_end": "2026-09-08T08:00:00",
+  "random_state": 42,
+  "validation_status": "Research-validated feature set. Chronological holdout showed lower MAE/RMSE when dry_bulk_vessels_waiting was added to cargo + berth + quantity.",
+  "important_caveat": "Operational snapshot date is used as the point-in-time state. Exact publication time of the daily source report is not established."
+}

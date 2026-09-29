@@ -1,0 +1,41 @@
+entity,q1_2026,q4_2025,q1_2025,ytd_2026,ytd_2025,percent_change,metric,unit,geography_level
+Eastern Total,15644924.0,16452327.0,16715191.0,15644924.0,16715191.0,-6.4,us_coal_exports,short_tons,customs_district
+"Baltimore, MD",6712671.0,7113307.0,6664251.0,6712671.0,6664251.0,0.7,us_coal_exports,short_tons,customs_district
+"Buffalo, NY",104643.0,1050340.0,72888.0,104643.0,72888.0,43.6,us_coal_exports,short_tons,customs_district
+"New York City, NY",64.0,107.0,465.0,64.0,465.0,-86.2,us_coal_exports,short_tons,customs_district
+"Norfolk, VA",8466128.0,7782824.0,9610323.0,8466128.0,9610323.0,-11.9,us_coal_exports,short_tons,customs_district
+"Ogdensburg, NY",5888.0,28518.0,10137.0,5888.0,10137.0,-41.9,us_coal_exports,short_tons,customs_district
+"Philadelphia, PA",158068.0,97436.0,52734.0,158068.0,52734.0,199.7,us_coal_exports,short_tons,customs_district
+"Portland, ME",197438.0,379795.0,304351.0,197438.0,304351.0,-35.1,us_coal_exports,short_tons,customs_district
+"St. Albans, VT",24.0,,42.0,24.0,42.0,-42.9,us_coal_exports,short_tons,customs_district
+Southern Total,6069171.0,5461116.0,6177516.0,6069171.0,6177516.0,-1.8,us_coal_exports,short_tons,customs_district
+"Charleston, SC",19.0,,181.0,19.0,181.0,-89.5,us_coal_exports,short_tons,customs_district
+"El Paso, TX",11056.0,,5723.0,11056.0,5723.0,93.2,us_coal_exports,short_tons,customs_district
+"Houston-Galveston, TX",197462.0,182099.0,133707.0,197462.0,133707.0,47.7,us_coal_exports,short_tons,customs_district
+"Laredo, TX",3147.0,2047.0,4425.0,3147.0,4425.0,-28.9,us_coal_exports,short_tons,customs_district
+"Miami, FL",313.0,57.0,169.0,313.0,169.0,85.2,us_coal_exports,short_tons,customs_district
+"Mobile, AL",3909223.0,3891785.0,2557994.0,3909223.0,2557994.0,52.8,us_coal_exports,short_tons,customs_district
+"New Orleans, LA",1947896.0,1385128.0,3475280.0,1947896.0,3475280.0,-43.9,us_coal_exports,short_tons,customs_district
+"Savannah, GA",55.0,,,55.0,,,us_coal_exports,short_tons,customs_district
+"Tampa, FL",,,37.0,,37.0,,us_coal_exports,short_tons,customs_district
+Western Total,1957989.0,1454796.0,1467899.0,1957989.0,1467899.0,33.4,us_coal_exports,short_tons,customs_district
+"Anchorage, AK",34.0,,,34.0,,,us_coal_exports,short_tons,customs_district
+"Great Falls, MT",86.0,409.0,155.0,86.0,155.0,-44.5,us_coal_exports,short_tons,customs_district
+"Los Angeles, CA",330808.0,75225.0,245199.0,330808.0,245199.0,34.9,us_coal_exports,short_tons,customs_district
+"Nogales, AZ",,20.0,12.0,,12.0,,us_coal_exports,short_tons,customs_district
+"San Diego, CA",88.0,40.0,139.0,88.0,139.0,-36.7,us_coal_exports,short_tons,customs_district
+"San Francisco, CA",22.0,,66711.0,22.0,66711.0,-100.0,us_coal_exports,short_tons,customs_district
+"Seattle, WA",1626951.0,1379102.0,1155683.0,1626951.0,1155683.0,40.8,us_coal_exports,short_tons,customs_district
+Northern Total,14831.0,96578.0,49047.0,14831.0,49047.0,-69.8,us_coal_exports,short_tons,customs_district
+"Chicago, IL",,,66.0,,66.0,,us_coal_exports,short_tons,customs_district
+"Cleveland, OH",21.0,,,21.0,,,us_coal_exports,short_tons,customs_district
+"Detroit, MI",14535.0,25799.0,16798.0,14535.0,16798.0,-13.5,us_coal_exports,short_tons,customs_district
+"Minneapolis, MN",,68178.0,31571.0,,31571.0,,us_coal_exports,short_tons,customs_district
+"Pembina, ND",275.0,2601.0,612.0,275.0,612.0,-55.1,us_coal_exports,short_tons,customs_district
+Other Ports,947.0,1001.0,2186.0,947.0,2186.0,-56.7,us_coal_exports,short_tons,customs_district
+Total,23687862.0,23465818.0,24411839.0,23687862.0,24411839.0,-3.0,us_coal_exports,short_tons,customs_district
+- = No data reported.,,,,,,,us_coal_exports,short_tons,customs_district
+,,,,,,,us_coal_exports,short_tons,customs_district
+,,,,,,,us_coal_exports,short_tons,customs_district
+Note: Total may not equal sum of components because of independent rounding.,,,,,,,us_coal_exports,short_tons,customs_district
+"Source: U.S. Department of Commerce, Bureau of the Census, 'Monthly Report EM 545.'",,,,,,,us_coal_exports,short_tons,customs_district

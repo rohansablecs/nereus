@@ -1,0 +1,36 @@
+{
+  "dataset": "KOBC Dry Bulk Index",
+  "provider": "Korea Ocean Business Corporation (KOBC)",
+  "source_page": "https://www.kobc.or.kr/ebz/shippinginfoeng/kdci/gridList.do?mId=0301000000",
+  "download_endpoint": "https://www.kobc.or.kr/ebz/shippinginfoeng/kdci/excel/download.do?mId=0301000000",
+  "retrieved_at_utc": "2026-09-07T17:46:40.632091+00:00",
+  "requested_start_date": "2019-01-01",
+  "requested_end_date": "2026-09-08",
+  "actual_start_date": "2019-01-02",
+  "actual_end_date": "2026-09-07",
+  "observations": 1846,
+  "frequency": "business/assessment days as provided by source",
+  "units": {
+    "kdci": "USD/day",
+    "cape": "USD/day",
+    "panamax": "USD/day",
+    "supramax": "USD/day",
+    "handy": "USD/day"
+  },
+  "columns": [
+    "record_number",
+    "date",
+    "kdci",
+    "cape",
+    "panamax",
+    "supramax",
+    "handy"
+  ],
+  "raw_file": "kobc_drybulk_daily_raw.xls",
+  "content_disposition": "attachment; filename=KOBC DRY BULK INDEX_20260908024638.xls",
+  "notes": [
+    "Source workbook is preserved unchanged.",
+    "No weekend/holiday observations were fabricated.",
+    "Data was sorted chronologically after ingestion."
+  ]
+}

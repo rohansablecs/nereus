@@ -1,0 +1,2 @@
+port,snapshot_time_utc,source_url,berth_name,von,vessel_name,arrival_date,arrival_time,departure_date,departure_time
+Haldia,2026-09-07T16:28:05.471258+00:00,https://smportkolkata.shipping.gov.in/smpk/hld/en/berth-position/,Berth Name,VON,Vessel Name,Arrival Date,Arrival Time,Departure Date,Departure Time

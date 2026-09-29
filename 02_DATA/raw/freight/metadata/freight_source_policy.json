@@ -1,0 +1,31 @@
+{
+  "target_dataset": "dry_bulk_freight_indices",
+  "primary_reference": {
+    "provider": "Baltic Exchange",
+    "purpose": "Index definitions, route definitions, methodology and validation",
+    "indices": ["BDI", "BCI", "BPI", "BSI", "BHSI"]
+  },
+  "historical_acquisition": {
+    "provider": "BalticDryIndex.com / Stooq",
+    "purpose": "Public historical acquisition candidate",
+    "requires_validation": true
+  },
+  "secondary_crosscheck": {
+    "provider": "StockQ",
+    "purpose": "Independent historical/current cross-check",
+    "requires_validation": true
+  },
+  "model_period": {
+    "start": "2019-01-01",
+    "reason": "Align freight history with PortWatch operational history"
+  },
+  "target_frequency": "daily",
+  "target_columns": [
+    "date",
+    "bdi",
+    "bci",
+    "bpi",
+    "bsi",
+    "bhsi"
+  ]
+}

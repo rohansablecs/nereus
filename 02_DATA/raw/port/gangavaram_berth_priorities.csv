@@ -1,0 +1,10 @@
+port,berth_no,priority_cargo,allocation_rule
+Gangavaram,B1,,FCFS
+Gangavaram,B2,,FCFS
+Gangavaram,B3,,FCFS
+Gangavaram,B4,Iron Ore Fines / Pellets,Priority
+Gangavaram,B5,Coal / Coke,Priority
+Gangavaram,B6,Coal / Coke,Priority
+Gangavaram,B7,,FCFS
+Gangavaram,B8,,FCFS
+Gangavaram,B9,Container,Priority

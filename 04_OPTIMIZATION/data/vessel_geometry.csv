@@ -1,0 +1,5 @@
+vessel_class,loa_m,beam_m,draft_m,geometry_basis,status
+Handysize,178,29.8,10.15,industry_reference,reference
+Supramax,190,32.26,12.85,industry_reference,reference
+Panamax,229,32.26,14.25,industry_reference,reference
+Capesize,289,45.0,18.20,industry_reference,reference

@@ -1,0 +1,25 @@
+{
+  "dataset": "Paradip observed arrival-to-berth delay",
+  "status": "validated",
+  "generated_at_utc": "2026-09-08T12:49:23.488761Z",
+  "waiting_observations": 1469,
+  "berths_events_available": 1017,
+  "matched_observations": 452,
+  "unmatched_observations": 1017,
+  "matched_fraction": 0.3076923076923077,
+  "unique_matched_vessels": 4,
+  "target": "arrival_to_berth_hours",
+  "target_definition": "Elapsed time from the waiting table's reported vessel arrival timestamp to the first subsequent BERTHS movement for the same normalized vessel name.",
+  "interpretation_warning": "This is an observed operational delay proxy, not a pure congestion measurement. It can include berth availability, readiness, documentation, priority and other operational effects.",
+  "validation": {
+    "reports": 113,
+    "waiting_rows": 1469,
+    "apj_sethu_expected_hours": 50.2,
+    "apj_sethu_actual_hours": 50.2,
+    "negative_delays": 0
+  },
+  "sources": {
+    "waiting": "02_DATA/processed/paradip/waiting_vessels_corpus.csv",
+    "movements": "02_DATA/processed/paradip/berthing_movements_corpus_v3.csv"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "source_pdf": "02_DATA/raw/port/paradip/daily_traffic/dtr0709.pdf",
+  "report_date": "2026-09-06",
+  "ingested_at_utc": "2026-09-07T19:48:28.682293+00:00",
+  "waiting_rows": 0,
+  "expected_rows": 0,
+  "movement_rows": 0
+}

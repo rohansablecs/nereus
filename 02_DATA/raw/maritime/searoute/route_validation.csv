@@ -1,0 +1,4 @@
+origin,destination,searoute_distance_nm,reference_distance_nm,difference_nm,difference_pct,absolute_difference_pct,classification,source_type,source_description,reference_confidence,routing_engine,routing_network
+Newcastle,Paradip,5780.24,5887.0,-106.76,-1.81,1.81,close,published_reference,Published sea-distance reference for Newcastle Australia → Paradip India,medium,searoute,MARNET
+Newcastle,Visakhapatnam,5723.44,5627.0,96.44,1.71,1.71,close,published_reference,IEA Clean Coal Centre published sample sea-distance reference for Newcastle Australia → Visakhapatnam India,medium,searoute,MARNET
+Newcastle,Visakhapatnam,5723.44,6065.89,-342.45,-5.65,5.65,material_difference,observed_voyage,"Observed voyage reconstruction for Newcastle Australia → Visakhapatnam India; 6,023.83 NM travelled plus 42.06 NM remaining",medium,searoute,MARNET

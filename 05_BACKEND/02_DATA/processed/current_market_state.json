@@ -1,0 +1,45 @@
+{
+  "state_version": "v1",
+  "freight": {
+    "available": false,
+    "latest_date": null,
+    "values": {}
+  },
+  "port_activity": {
+    "available": false,
+    "latest_date": null,
+    "ports": {}
+  },
+  "disruptions": {
+    "available": false,
+    "events": 0
+  },
+  "operational": {
+    "visakhapatnam": {
+      "berth_occupancy": {
+        "available": false,
+        "rows": null
+      },
+      "waiting_expected": {
+        "available": false,
+        "vessels": null
+      }
+    },
+    "haldia": {
+      "berth_occupancy": {
+        "available": false,
+        "rows": null
+      },
+      "vessels_due": {
+        "available": false,
+        "vessels": null
+      }
+    },
+    "gangavaram": {
+      "vessel_schedule": {
+        "available": false,
+        "vessels": null
+      }
+    }
+  }
+}

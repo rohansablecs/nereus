@@ -1,0 +1,68 @@
+{
+  "dataset": "IMF World Economic Outlook",
+  "release": "April 2026",
+  "source_file": "WEOApr2026all.xlsx",
+  "source_url": "https://data.imf.org/Datasets/WEO",
+  "frequency": "annual",
+  "countries": {
+    "AUS": "Australia",
+    "USA": "United States",
+    "MOZ": "Mozambique",
+    "RUS": "Russia",
+    "IDN": "Indonesia",
+    "IND": "India"
+  },
+  "indicators": {
+    "NGDP_RPCH": {
+      "name": "real_gdp_growth",
+      "reason": "Broad economic activity."
+    },
+    "PCPIPCH": {
+      "name": "cpi_inflation",
+      "reason": "Macro price pressure."
+    },
+    "LUR": {
+      "name": "unemployment_rate",
+      "reason": "Economic activity/labor-market context."
+    },
+    "BCA_NGDPD": {
+      "name": "current_account_pct_gdp",
+      "reason": "External-balance context."
+    },
+    "NGDP": {
+      "name": "gdp_current_usd",
+      "reason": "Economic scale."
+    },
+    "TM_RPCH": {
+      "name": "import_volume_growth",
+      "reason": "Trade-demand context."
+    },
+    "TX_RPCH": {
+      "name": "export_volume_growth",
+      "reason": "Export/trade-flow context."
+    },
+    "TMG_RPCH": {
+      "name": "import_price_growth",
+      "reason": "Imported-cost pressure."
+    },
+    "TXG_RPCH": {
+      "name": "export_price_growth",
+      "reason": "Export-price pressure."
+    }
+  },
+  "year_range": [
+    1980,
+    2031
+  ],
+  "observation_types": [
+    "historical",
+    "projection"
+  ],
+  "notes": [
+    "Original IMF workbook is preserved in the raw layer.",
+    "Only NEREUS-relevant countries and indicators are normalized.",
+    "Missing IMF observations are preserved as missing.",
+    "IMF projections are explicitly labelled and are not treated as historical observations.",
+    "No synthetic or interpolated economic observations are created."
+  ]
+}

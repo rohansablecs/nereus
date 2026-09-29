@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/rohandnyaneshwarsable/coding/NEREUS/06_FRONTEND/app/layout.js"],"sourcesContent":["import \"./globals.css\";\n\nexport const metadata = {\n  title: \"NEREUS\",\n  description:\n    \"Intelligent freight forecasting and vessel chartering decision support.\",\n};\n\nexport default function RootLayout({\n  children,\n}) {\n  return (\n    <html lang=\"en\">\n      <body>{children}</body>\n    </html>\n  );\n}"],"names":["metadata","title","description","RootLayout","children","lang"],"mappings":";;;;;;;;;AAEO,MAAMA,WAAW;IACtBC,OAAO;IACPC,aACE;AACJ;AAEe,SAASC,WAAW,EACjCC,QAAQ,EACT;IACC,qBACE,8OAAC;QAAKC,MAAK;kBACT,cAAA,8OAAC;sBAAMD;;;;;;;;;;;AAGb"}},
+    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":["file:///Users/rohandnyaneshwarsable/coding/NEREUS/06_FRONTEND/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

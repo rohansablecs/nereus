@@ -1,0 +1,27 @@
+{
+  "source_file": "02_DATA/raw/port/haldia_tanker_lineup_2026-06-22.pdf",
+  "snapshot_date": "2026-06-22",
+  "morning_position": "06:00",
+  "pages_used": [
+    1,
+    2,
+    5
+  ],
+  "parser_method": "coordinate-based PDF word extraction",
+  "datasets": {
+    "berth_occupancy": 20,
+    "vessels_due": 52,
+    "arrivals": 2,
+    "departures": 8,
+    "traffic_update": 8,
+    "sagar_sandheads": 1
+  },
+  "notes": [
+    "Coordinates are used because source tables are visually ruled and vertically merged.",
+    "Raw source text is preserved.",
+    "Missing values are not fabricated.",
+    "VCN is the vessel identity key.",
+    "No congestion score is generated at ingestion.",
+    "Sagar and Sandheads are distinct locations."
+  ]
+}

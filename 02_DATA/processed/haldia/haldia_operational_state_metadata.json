@@ -1,0 +1,19 @@
+{
+  "snapshot_time_utc": "2026-09-08T12:58:42.414853+00:00",
+  "haldia": {
+    "berth_rows": 20,
+    "occupied": 14,
+    "vacant": 6,
+    "due_vessels": 52
+  },
+  "sagar": {
+    "due_vessels": 1
+  },
+  "sandheads": {
+    "working_vessels": 0
+  },
+  "point_x": {
+    "working_vessels": 0
+  },
+  "source": "Official SMPK operational snapshot corpus"
+}

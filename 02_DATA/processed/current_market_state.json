@@ -1,0 +1,102 @@
+{
+  "state_version": "v1",
+  "freight": {
+    "available": true,
+    "latest_date": "2026-09-07",
+    "values": {
+      "kdci": 33732.0,
+      "cape": 63177.0,
+      "panamax": 22832.0,
+      "supramax": 21236.0,
+      "handy": 15582.0
+    },
+    "unit": "USD/day",
+    "source": "KOBC"
+  },
+  "port_activity": {
+    "available": true,
+    "latest_date": "2026-08-28",
+    "ports": {
+      "dhamra": {
+        "available": true,
+        "values": {
+          "portcalls_dry_bulk": 0.0,
+          "portcalls": 0.0,
+          "import_dry_bulk": 0.0,
+          "export_dry_bulk": 0.0
+        },
+        "source": "PortWatch"
+      },
+      "gopalpur": {
+        "available": true,
+        "values": {
+          "portcalls_dry_bulk": 0.0,
+          "portcalls": 0.0,
+          "import_dry_bulk": 0.0,
+          "export_dry_bulk": 0.0
+        },
+        "source": "PortWatch"
+      },
+      "haldia": {
+        "available": true,
+        "values": {
+          "portcalls_dry_bulk": 3.0,
+          "portcalls": 4.0,
+          "import_dry_bulk": 61236.0,
+          "export_dry_bulk": 5479.0
+        },
+        "source": "PortWatch"
+      },
+      "paradip": {
+        "available": true,
+        "values": {
+          "portcalls_dry_bulk": 2.0,
+          "portcalls": 4.0,
+          "import_dry_bulk": 40646.0,
+          "export_dry_bulk": 60537.0
+        },
+        "source": "PortWatch"
+      },
+      "visakhapatnam": {
+        "available": true,
+        "values": {
+          "portcalls_dry_bulk": 5.0,
+          "portcalls": 7.0,
+          "import_dry_bulk": 123455.0,
+          "export_dry_bulk": 107852.0
+        },
+        "source": "PortWatch"
+      }
+    }
+  },
+  "disruptions": {
+    "available": true,
+    "events": 132,
+    "latest_event_date": "2026-08-15T10:04:05.013000+00:00",
+    "source": "PortWatch disruptions database"
+  },
+  "operational": {
+    "visakhapatnam": {
+      "berth_occupancy": {
+        "available": true,
+        "rows": 35
+      },
+      "waiting_expected": {
+        "available": true,
+        "vessels": 52
+      }
+    },
+    "haldia": {
+      "berth_position": {
+        "available": true,
+        "rows": 1
+      }
+    },
+    "gangavaram": {
+      "vessel_schedule": {
+        "available": true,
+        "vessels": 9
+      }
+    }
+  }
+}

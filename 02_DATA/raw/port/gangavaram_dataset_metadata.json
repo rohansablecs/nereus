@@ -1,0 +1,31 @@
+{
+  "dataset": "Gangavaram Port raw ingestion",
+  "source": "Adani Gangavaram Port / Adani Ports",
+  "ingested_at_utc": "2026-09-07T17:11:55.403821+00:00",
+  "sources": {
+    "port_page": "https://www.adaniports.com/Ports-and-Terminals/Gangavaram-Port",
+    "live_vessel_schedule": "https://www.adaniports.com/Ports-and-Terminals/Gangavaram-Port/vesselschedule",
+    "official_downloads": "https://www.adaniports.com/Downloads",
+    "bpts": "https://www.adaniports.com/-/media/Project/Ports/PortsAndTerminals/Gangavaram-Port/Tariff/Berthing-Policy-and-Tariff-structure-2025-26.pdf"
+  },
+  "schedule": {
+    "schedule_url": "https://www.adaniports.com/Ports-and-Terminals/Gangavaram-Port/vesselschedule",
+    "table_count": 4,
+    "counts": {
+      "berth": 9,
+      "anchorage": 0,
+      "expected": 10,
+      "sailed_24h": 1
+    }
+  },
+  "downloads": {
+    "total_gangavaram_links": 67,
+    "trade_notice_links_2026": 16
+  },
+  "notes": [
+    "Live schedule is current operational state.",
+    "BPTS is retained as source document and is not treated as live state.",
+    "Trade notices are retained as update sources and must be interpreted by effective date.",
+    "No missing values are invented during ingestion."
+  ]
+}

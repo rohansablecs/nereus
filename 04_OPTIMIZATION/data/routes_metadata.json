@@ -1,0 +1,19 @@
+{
+  "dataset": "NEREUS optimization route registry",
+  "generated_at_utc": "2026-09-09T16:55:28.418780+00:00",
+  "source_file": "02_DATA/raw/maritime/searoute/route_distances.csv",
+  "output_file": "04_OPTIMIZATION/data/routes.csv",
+  "routing_engine": "SeaRoute",
+  "routing_network": "MARNET",
+  "route_count": 48,
+  "origin_count": 8,
+  "destination_count": 6,
+  "distance_units": "nautical_miles",
+  "route_status": "computed_reference",
+  "route_id_policy": "Existing optimization route IDs are preserved where present. Newly available origin/destination combinations receive deterministic IDs.",
+  "validation_policy": "SeaRoute/MARNET distances are treated as reproducible planning references, not navigation-grade or actual sailed distances.",
+  "sagar_sandheads": {
+    "status": "not_in_route_matrix",
+    "action": "No route is generated until a valid routing endpoint is established."
+  }
+}

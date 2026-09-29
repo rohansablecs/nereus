@@ -1,0 +1,36 @@
+{
+  "source": "Open-Meteo",
+  "retrieved_at_utc": "2026-09-07T18:50:05.199648+00:00",
+  "weather_endpoint": "https://api.open-meteo.com/v1/forecast",
+  "marine_endpoint": "https://marine-api.open-meteo.com/v1/marine",
+  "locations_file": "02_DATA/raw/weather/open_meteo/locations.csv",
+  "locations": 15,
+  "weather_variables": [
+    "wind_speed_10m",
+    "wind_gusts_10m",
+    "wind_direction_10m",
+    "precipitation",
+    "visibility",
+    "pressure_msl"
+  ],
+  "marine_variables": [
+    "wave_height",
+    "wave_direction",
+    "wave_period",
+    "wind_wave_height",
+    "wind_wave_period",
+    "swell_wave_height",
+    "swell_wave_period",
+    "ocean_current_velocity",
+    "ocean_current_direction",
+    "sea_surface_temperature"
+  ],
+  "forecast_horizon_days": 7,
+  "notes": [
+    "Current forecast snapshot.",
+    "Weather and marine records are kept separately.",
+    "Coordinates are weather sampling points, not navigation coordinates.",
+    "Marine currents and sea-level data must not be used as navigation truth.",
+    "No missing values are interpolated."
+  ]
+}

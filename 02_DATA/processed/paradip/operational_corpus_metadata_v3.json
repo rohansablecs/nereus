@@ -1,0 +1,23 @@
+{
+  "dataset": "Paradip operational corpus v3",
+  "status": "validated",
+  "generated_at_utc": "2026-09-08T12:46:55.625907Z",
+  "reports": 113,
+  "reports_with_movement_section": 113,
+  "waiting_rows": 13,
+  "movement_rows": 1996,
+  "berths_events": 1017,
+  "sails_events": 979,
+  "delay_rows": 13,
+  "matched_delays": 4,
+  "quarantine_rows": 85,
+  "delay_definition": "Elapsed time between reported vessel arrival and the first subsequent BERTHS movement for the normalized vessel name.",
+  "interpretation": "Arrival-to-berth time is an operational delay proxy and must not be interpreted as pure port congestion.",
+  "source_fields": [
+    "report_filename",
+    "report_traffic_date",
+    "report_held_on",
+    "source_page",
+    "source_text"
+  ]
+}

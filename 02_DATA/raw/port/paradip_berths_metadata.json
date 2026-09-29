@@ -1,0 +1,18 @@
+{
+  "source_url": "https://paradipport.gov.in/berth-specifications/",
+  "retrieved_at_utc": "2026-09-07T15:52:28.027957+00:00",
+  "source_status": 200,
+  "table_count": 1,
+  "row_count": 24,
+  "column_count": 8,
+  "columns": [
+    "sl_no",
+    "berth_name",
+    "commodity",
+    "loa_m",
+    "beam_m",
+    "draft_m",
+    "remarks",
+    "berth_type"
+  ]
+}

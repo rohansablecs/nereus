@@ -1,0 +1,37 @@
+{
+  "source_file": "02_DATA/raw/port/haldia_tanker_lineup_2026-06-22.pdf",
+  "source_page": 6,
+  "snapshot_date": "2026-06-22",
+  "snapshot_time": "11:00",
+  "rows_parsed": 11,
+  "columns": [
+    "snapshot_date",
+    "snapshot_time",
+    "sl_no",
+    "vessel_name",
+    "vcn",
+    "draft_m",
+    "loa_m",
+    "cargo_raw",
+    "anchoring_time_raw",
+    "eta_raw",
+    "document_readiness",
+    "final_readiness",
+    "estimated_completion_hours",
+    "source_page",
+    "source_document",
+    "raw_row"
+  ],
+  "parser_notes": [
+    "Tanker lineup is on page 6.",
+    "Priority sections restart Sl. No numbering.",
+    "VCN is used as the stable vessel identity.",
+    "Vessel names may span multiple PDF text lines.",
+    "PDF table headers are explicitly rejected.",
+    "Multiline source blocks are preserved in raw_row.",
+    "Cargo is preserved as cargo_raw.",
+    "Source missingness is preserved.",
+    "No vessel-level values are invented.",
+    "This is an operational snapshot, not a live feed."
+  ]
+}

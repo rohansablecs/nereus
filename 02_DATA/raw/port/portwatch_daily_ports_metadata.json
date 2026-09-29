@@ -1,0 +1,37 @@
+{
+  "source": "IMF PortWatch",
+  "dataset": "Daily_Ports_Data",
+  "source_url": "https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/Daily_Ports_Data/FeatureServer/0/query",
+  "retrieved_at_utc": "2026-09-07T14:20:36.115994+00:00",
+  "query": {
+    "where": "portid IN ('port883','port1367','port2299','port290','port442')",
+    "fields": [
+      "date",
+      "portid",
+      "portname",
+      "country",
+      "ISO3",
+      "portcalls_dry_bulk",
+      "portcalls",
+      "import_dry_bulk",
+      "export_dry_bulk"
+    ],
+    "port_ids": [
+      "port883",
+      "port1367",
+      "port2299",
+      "port290",
+      "port442"
+    ]
+  },
+  "record_count": 13985,
+  "ports": [
+    "port1367",
+    "port2299",
+    "port290",
+    "port442",
+    "port883"
+  ],
+  "min_date": "2019-01-01",
+  "max_date": "2026-08-28"
+}

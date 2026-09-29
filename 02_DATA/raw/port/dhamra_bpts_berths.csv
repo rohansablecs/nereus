@@ -1,0 +1,5 @@
+port,berth,berth_category,loa_m,max_displacement_mt,max_draft_m,cargo_scope
+Dhamra,BB-1,Dry Bulk,300.0,145000.0,14.5,Dry bulk
+Dhamra,BB-2,Dry Bulk,300.0,145000.0,14.5,Import coal
+Dhamra,BB-3,Dry Bulk,200.0,75000.0,14.5,Dry bulk
+BB-3A,,Semi-mechanized,,,,Bulk / break-bulk

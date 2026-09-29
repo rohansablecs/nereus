@@ -1,0 +1,17 @@
+entity,q1_2026,q4_2025,q1_2025,ytd_2026,ytd_2025,percent_change,metric,unit,geography_level
+Eastern Total,9787287.0,9738034.0,10220201.0,9787287.0,10220201.0,-4.2,us_met_coal_exports,short_tons,customs_district
+"Baltimore, MD",1766658.0,2153378.0,2061044.0,1766658.0,2061044.0,-14.3,us_met_coal_exports,short_tons,customs_district
+"Buffalo, NY",101892.0,808258.0,70803.0,101892.0,70803.0,43.9,us_met_coal_exports,short_tons,customs_district
+"Norfolk, VA",7917944.0,6752565.0,8087016.0,7917944.0,8087016.0,-2.1,us_met_coal_exports,short_tons,customs_district
+"Ogdensburg, NY",793.0,23833.0,1296.0,793.0,1296.0,-38.8,us_met_coal_exports,short_tons,customs_district
+"St. Albans, VT",,,42.0,,42.0,,us_met_coal_exports,short_tons,customs_district
+Southern Total,3518620.0,3538802.0,2460024.0,3518620.0,2460024.0,43.0,us_met_coal_exports,short_tons,customs_district
+"Laredo, TX",796.0,356.0,470.0,796.0,470.0,69.4,us_met_coal_exports,short_tons,customs_district
+"Mobile, AL",3450318.0,3465642.0,2366300.0,3450318.0,2366300.0,45.8,us_met_coal_exports,short_tons,customs_district
+"New Orleans, LA",67506.0,72804.0,93254.0,67506.0,93254.0,-27.6,us_met_coal_exports,short_tons,customs_district
+Northern Total,78.0,164.0,9851.0,78.0,9851.0,-99.2,us_met_coal_exports,short_tons,customs_district
+"Detroit, MI",78.0,164.0,9851.0,78.0,9851.0,-99.2,us_met_coal_exports,short_tons,customs_district
+Total,13305985.0,13277000.0,12690076.0,13305985.0,12690076.0,4.9,us_met_coal_exports,short_tons,customs_district
+"- = No data reported.
+Note: Total may not equal sum of components because of independent rounding.
+Source: U.S. Department of Commerce, Bureau of the Census, 'Monthly Report EM 545.'",,,,,,,us_met_coal_exports,short_tons,customs_district

@@ -1,0 +1,2 @@
+port,location_type,status,vessel_name,loa_m,draft_m,agent,importer_exporter,cargo,operation,mode,quantity_mt,eta_text,readiness,source_section,snapshot_time_utc,source_file
+Sagar,anchorage,due,BALBOA,229.0,9.2,Eveready Shipping,Balmukund Sponge & Iron Pvt Ltd.,Lam Coke,Unloading,Floating Crane,5700.0,ETA-24th,Not Ready,F) Vessels due at Sagar,2026-09-08T12:58:42.414853+00:00,haldia_operational_pages.txt

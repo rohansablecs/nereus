@@ -1,0 +1,15 @@
+{
+  "port": "Dhamra",
+  "dataset": "Mooring guideline rules",
+  "source_document": "Dhamra Port Mooring Guidelines",
+  "source_file": "dhamra_mooring_guidelines.pdf",
+  "status": "source_derived",
+  "notes": [
+    "Only explicitly extractable textual requirements are normalized.",
+    "The PDF contains a recommended mooring pattern diagram; it is not converted into fabricated numeric data.",
+    "Additional text not yet normalized remains preserved in the original PDF."
+  ],
+  "datasets": [
+    "dhamra_mooring_rules.csv"
+  ]
+}

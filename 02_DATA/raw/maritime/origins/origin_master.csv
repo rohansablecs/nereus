@@ -1,0 +1,13 @@
+origin_id,origin_name,country,commodity,trade_volume,trade_volume_unit,trade_yoy_pct,trade_flow_state,routing_latitude,routing_longitude,routing_coordinate_source,routing_endpoint_type,weather_location_id,trade_source,status
+AU_NEWCASTLE,Newcastle,Australia,metallurgical_coal,,,,,-32.96412,151.85635,Newcastle official Pilot Boarding Ground Alpha,pilot_boarding_ground,newcastle_au,,active
+AU_HAY_POINT,Hay Point,Australia,metallurgical_coal,,,,,-21.26667,149.30111,Hay Point reference coordinate,port,hay_point_au,,active
+MZ_BEIRA,Beira,Mozambique,metallurgical_coal,,,,,-19.81834,34.83555,Port reference coordinate,port,beira_mz,,active
+MZ_MAPUTO,Maputo,Mozambique,metallurgical_coal,,,,,-25.96034,32.54528,Port reference coordinate,port,maputo_mz,,active
+RU_VOSTOCHNY,Vostochny,Russia,metallurgical_coal,,,,,42.75278,133.08167,Port reference coordinate,port,vostochny_ru,,active
+RU_TAMAN,Taman,Russia,metallurgical_coal,,,,,45.30444,36.73361,Port reference coordinate,port,taman_ru,,active
+ID_SAMARINDA,Samarinda,Indonesia,metallurgical_coal,,,,,-0.50218,117.15380,Port reference coordinate,port,samarinda_id,,active
+ZA_RICHARDS_BAY,Richards Bay,South Africa,metallurgical_coal,,,,,-28.78301,32.03863,Port reference coordinate,port,richards_bay_za,,active
+US_NORFOLK,Norfolk,USA,metallurgical_coal,,,,,36.84610,-76.29329,Port of Virginia reference coordinate,port,,EIA customs district trade data,active
+US_BALTIMORE,Baltimore,USA,metallurgical_coal,,,,,39.29038,-76.61219,UN/LOCODE Baltimore reference coordinate,port,,EIA customs district trade data,active
+US_MOBILE,Mobile,USA,metallurgical_coal,,,,,30.71217,-88.04331,Alabama Port Authority project reference coordinate,port,,EIA customs district trade data,active
+US_NEW_ORLEANS,New Orleans,USA,metallurgical_coal,,,,,29.93689,-90.06189,Port NOLA reference coordinate,port,,EIA customs district trade data,active

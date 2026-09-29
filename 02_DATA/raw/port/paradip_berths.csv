@@ -1,0 +1,25 @@
+sl_no,berth_name,commodity,loa_m,beam_m,draft_m,remarks,berth_type
+1,Berth No. 01(North Oil Jetty),POL,260,46,13.5,Minimum Permissible LOA = 148 Mtrs,POL
+2,Berth No. 02(New Iron Ore Berth),Iron Ore,300,46,16.0,Sailling of Vessels up to 16.00M. draft during High Tide.,Mechanised
+3,Berth No. 03(New Coal Import Berth),Coking Coal,300,46,16.0,Berthing of Vessels up to 16M draft during High Tide,Mechanised
+4,Berth No. 04(Iron Ore Berth),Iron Ore,230,38,13.0,Max Freeboard 14.275M for loarding,Mechanised
+5,Berth No. 05(Coal Berth - 01),Thermal Coal,300,46,14.5,02(two) vessels of total LOA up to 520M. Draft upto 16.0M allowed during High tide,Mechanised
+6,Berth No. 06(Coal Berth - 02),Thermal Coal,300,46,14.5,,Mechanised
+7,Berth No. 07(East Quay - 03),Thermal Coal,300,46,14.5,03 (Three) Vessels of total LOA upto 600M,Mechanised
+8,Berth No. 08(East Quay - 02),Thermal Coal,300,46,14.5,,
+9,Berth No. 09(East Quay - 01),Thermal Coal,230,38,12.5,,
+10,Berth No. 10(South Quay),General Cargo(Dry Bulk Cargo),260,46,12.5,,Harbour mobile Crane
+11,Berth No. 11(Central Quay - 01),General Cargo(Dry Bulk Cargo),300,46,14.5,03 (Three) vessels of total LOA Maximum 687M,Harbour mobile Crane
+12,Berth No. 12(Central Quay - 02),General Cargo(Dry Bulk Cargo),230,33,14.5,,
+13,Berth No. 13(Central Quay - 03),IOP(Iron Ore Pillet),230,33,14.5,,Mechanised
+14,Berth No. 14(Multi-Purpose Berth),General Cargo(Dry Bulk Cargo),230,33,14.5,,Harbour Mobile Crane
+15,Berth No. 15(Fertilizer Berth - 02),Phosphates/Sulfur,230,33,14.5,,Mechanised
+16,Berth No. 16(Fertilizer Berth - 01),Phosphates/Sulfur,230,33,14.5,,Mechanised
+17,Berth No. 17(PICT),Clean Cargo & Containers,300,46,14.5,02(TWO) Vessels of total LOA up-to 420M,Harbour mobile Crane
+18,Berth No. 18(South Oil Jetty),POL,260,46,14.0,Minimum Permissible LOA = 148 M.( Vessels of LOA beween 120M to 148M is not permissible),Pipe Line(POL)
+19,SPM Terminal - 1,Crude Oil,370,65,21.0,"Max.DWT = 3,20,000 MT Min.DWT = 80,000 MT BERTHING IN DAY TIME ONLY",Pipe Line(Crude Oil)
+20,SPM Terminal - 2,Crude Oil,370,65,23.0,,
+21,SPM Terminal - 3,Crude Oil,370,65,23.0,,
+22,North Quay-02,General Cargo(Dry Bulk Cargo),130,22,7.5,"Atleat 100M must be vacant towards North end of CQ3 or MPB for berthing of vessels more than 110M LOA at NQ-2(except for vessels up to 125M LOA with  twin-screw and Bow-thruster operational, berthing at NQ-2.)",Non-Mechanised
+23,North Quay - 03,General Cargo(Dry Bulk Cargo),170,33,6.0,,Non-Mechanised
+24,RO-RO Jetty Berth(Stern Door),Project Cargo,90,20,5.0,Berth length - 50Mtrs.,Non-Mechanised

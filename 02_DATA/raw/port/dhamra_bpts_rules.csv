@@ -1,0 +1,7 @@
+port,rule_id,category,parameter,value,unit,description
+Dhamra,BPTS-001,policy,effective_date,2026-04-01,,BPTS/DPC/07 effective 1 Apr 2026.
+Dhamra,BPTS-002,update_policy,trade_notice_precedence,subsequent_trade_circulars_apply,,BPTS must be read with subsequent trade circulars.
+Dhamra,BPTS-003,season,monsoon_period,15 May - 30 September,,Monsoon period defined by current BPTS.
+Dhamra,BPTS-004,berthing,berth_scheme,FCFS,,First Come First Served is the standard berthing scheme.
+Dhamra,BPTS-005,operational,idling_definition,vessel alongside berth without cargo operations,,Definition used by BPTS.
+Dhamra,BPTS-006,timing,per_day,24,hours,Any part of a day is charged as a full day.

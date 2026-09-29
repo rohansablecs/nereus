@@ -1,0 +1,53 @@
+{
+  "dataset": "NEREUS SeaRoute/MARNET route validation",
+  "generated_at_utc": "2026-09-09T16:02:35.723358+00:00",
+  "route_matrix": "02_DATA/raw/maritime/searoute/route_distances.csv",
+  "validation_file": "02_DATA/raw/maritime/searoute/route_validation.csv",
+  "external_reference_count": 3,
+  "comparison_count": 3,
+  "summary": {
+    "comparisons": 3,
+    "mean_absolute_difference_pct": 3.06,
+    "median_absolute_difference_pct": 1.81,
+    "minimum_absolute_difference_pct": 1.71,
+    "maximum_absolute_difference_pct": 5.65,
+    "classification_counts": {
+      "close": 2,
+      "material_difference": 1
+    }
+  },
+  "interpretation": {
+    "newcastle_paradip": "SeaRoute is compared against a published Newcastle \u2192 Paradip distance reference. This is a direct route-level comparison.",
+    "newcastle_visakhapatnam": "Two different external references exist: a published sample distance and an observed voyage reconstruction. They represent different concepts and should not be collapsed into a single ground-truth value.",
+    "general_policy": "SeaRoute/MARNET should remain a reproducible computed route reference. It should not be described as navigation-grade or actual sailed distance.",
+    "optimization_policy": "Until stronger route-distance evidence is available, optimization may use the SeaRoute/MARNET distance as a reference input while retaining source provenance and uncertainty.",
+    "uncertainty_policy": "A route-distance uncertainty factor should not be hardcoded from these few comparisons. More independent route references are needed before calibrating a systematic distance adjustment."
+  },
+  "external_references": [
+    {
+      "origin": "Newcastle",
+      "destination": "Paradip",
+      "reference_distance_nm": 5887.0,
+      "source_type": "published_reference",
+      "source_description": "Published sea-distance reference for Newcastle Australia \u2192 Paradip India",
+      "reference_confidence": "medium"
+    },
+    {
+      "origin": "Newcastle",
+      "destination": "Visakhapatnam",
+      "reference_distance_nm": 5627.0,
+      "source_type": "published_reference",
+      "source_description": "IEA Clean Coal Centre published sample sea-distance reference for Newcastle Australia \u2192 Visakhapatnam India",
+      "reference_confidence": "medium"
+    },
+    {
+      "origin": "Newcastle",
+      "destination": "Visakhapatnam",
+      "reference_distance_nm": 6065.89,
+      "source_type": "observed_voyage",
+      "source_description": "Observed voyage reconstruction for Newcastle Australia \u2192 Visakhapatnam India; 6,023.83 NM travelled plus 42.06 NM remaining",
+      "reference_confidence": "medium"
+    }
+  ],
+  "important_warning": "Published and observed voyage distances are not interchangeable. A published route distance may represent a planning/reference route, while an observed voyage distance reflects an actual voyage path and can include routing, weather, traffic, operational and other voyage-specific effects."
+}

@@ -1,0 +1,50 @@
+{
+  "dataset": "NEREUS SeaRoute/MARNET route distance matrix",
+  "generated_at_utc": "2026-09-24T08:36:32.931003+00:00",
+  "routing_engine": "searoute",
+  "routing_network": "MARNET",
+  "units": "nautical_miles",
+  "append_orig_dest": true,
+  "algorithm": "default",
+  "restrictions": [
+    "northwest"
+  ],
+  "include_ports": false,
+  "port_selection": false,
+  "origin_count": 12,
+  "destination_count": 6,
+  "expected_route_count": 72,
+  "computed_route_count": 72,
+  "error_route_count": 0,
+  "sagar_sandheads_excluded": true,
+  "sagar_sandheads_reason": "Sagar-Sandheads is modeled separately as an anchorage/lighterage operation rather than a conventional berth destination.",
+  "port_selection_note": "SeaRoute include_ports is disabled. NEREUS explicitly supplies endpoint coordinates because automatic nearest port selection can select a different nearby port.",
+  "distance_note": "Distances are reproducible SeaRoute/MARNET route references, not navigation-grade or guaranteed actual sailed-voyage distances.",
+  "coordinate_note": "Routing coordinates come from the NEREUS maritime origin/destination registries. Verified endpoint overrides take precedence. Weather coordinates remain separate and are linked only through weather_location_id.",
+  "usa_origin_note": "USA origins represent customs/port gateways used by the metallurgical-coal trade-flow layer. Their routing coordinates are reference points and do not represent a universal coal loading berth.",
+  "source_origin_master": "02_DATA/raw/maritime/origins/origin_master.csv",
+  "source_destination_master": "02_DATA/raw/maritime/destinations/destination_master.csv",
+  "source_weather_locations": "02_DATA/raw/weather/open_meteo/locations.csv",
+  "origins": [
+    "Newcastle",
+    "Hay Point",
+    "Beira",
+    "Maputo",
+    "Vostochny",
+    "Taman",
+    "Samarinda",
+    "Richards Bay",
+    "Norfolk",
+    "Baltimore",
+    "Mobile",
+    "New Orleans"
+  ],
+  "destinations": [
+    "Paradip",
+    "Dhamra",
+    "Gopalpur",
+    "Visakhapatnam",
+    "Gangavaram",
+    "Haldia"
+  ]
+}

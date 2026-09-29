@@ -1,0 +1,9 @@
+port,cost,basis,rate_usd,condition,source_page
+Gangavaram,port_dues,GT,0.032,GT <= 45000,20
+Gangavaram,port_dues,GT,0.036,GT > 45000,20
+Gangavaram,pilotage,GT,1.553,GT <= 45000,20
+Gangavaram,pilotage,GT,1.745,GT > 45000,20
+Gangavaram,mooring,GT per VCN,0.041,all vessels,21
+Gangavaram,berth_hire,GT/hour,0.013,non-container GT <= 45000,21
+Gangavaram,berth_hire,GT/hour,0.014,non-container GT > 45000,21
+Gangavaram,anchorage,GT/hour,0.00125,vessel anchored within port limits,22

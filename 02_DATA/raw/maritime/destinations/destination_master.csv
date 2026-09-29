@@ -1,0 +1,7 @@
+destination_id,destination_name,state,country,endpoint_type,max_loa_m,max_beam_m,max_draft_m,berth_count,cargo_capability,handling_rate_mt_day,weather_location_id,operational_source,data_status,status
+IN_PARADIP,Paradip,Odisha,India,port,,,,"24",coking_coal,,paradip_in,official_port_data,available,active
+IN_DHAMRA,Dhamra,Odisha,India,port,300,,17.50,3,coal,50000,dhamra_in,official_current_schedule_and_BPTS,available,active
+IN_GOPALPUR,Gopalpur,Odisha,India,port,300,50,14.50,1,dry_bulk,,gopalpur_in,official_BPTS,available,active
+IN_VISAKHAPATNAM,Visakhapatnam,Andhra Pradesh,India,port,,,,,dry_bulk,,visakhapatnam_in,official_daily_berthing_programme,available,active
+IN_GANGAVARAM,Gangavaram,Andhra Pradesh,India,port,310,,19.50,9,coal/coke,,gangavaram_in,official_BPTS_and_schedule,available,active
+IN_HALDIA,Haldia,West Bengal,India,port,,,,20,dry_bulk,,haldia_in,official_operational_snapshot,available,active

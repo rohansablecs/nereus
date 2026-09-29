@@ -1,0 +1,912 @@
+{
+  "source": "Paradip Port Authority",
+  "source_page": "https://paradipport.gov.in/traffic/",
+  "description": "Official daily traffic report PDFs discovered from the Paradip Port Authority traffic page.",
+  "discovered_count": 113,
+  "records": [
+    {
+      "filename": "dtr0809.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0809.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62794,
+      "sha256": "11be53c070ce61523fd6d726f7d3e1b89fc87f71437ce18eccd4520d9a86fd15"
+    },
+    {
+      "filename": "dtr0709.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0709.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "already_present",
+      "bytes": 66688,
+      "sha256": "462bad26f78927d33744058455239c53f3df4db422fd19bb711e91ed5c5fb015"
+    },
+    {
+      "filename": "dtr0609.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0609.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68642,
+      "sha256": "c4ab24d736e8e0462a962d015e40a7e1a5093c2662ccd003d3cde090c8b45e82"
+    },
+    {
+      "filename": "dtr0509.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0509.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 65166,
+      "sha256": "2d4eff971e3c44d1bc36b309b1946af9032ee621b2551e129a57ff0ed9df51c8"
+    },
+    {
+      "filename": "dtr0409.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0409.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67017,
+      "sha256": "a7463928a2c45a38b08e579999abfe917a3314dfc74a7f9e812735d09e6b54d2"
+    },
+    {
+      "filename": "dtr0309.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0309.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67132,
+      "sha256": "e1b7a7a0da634408cd849792d3eb67116cd85e07235717dd30af00f50472db50"
+    },
+    {
+      "filename": "dtr0209__compressed.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0209__compressed.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 52781,
+      "sha256": "1cc87a2fd1ad3b7a19d234f0b2aa2ed844cbf4da27777ab14df7e85c6fb72515"
+    },
+    {
+      "filename": "dtr0109.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/09/dtr0109.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 63702,
+      "sha256": "f5510c3e4c8c99a9b8e04b0ad793a4a1aae97bc5d23f3250b41bd26c0c959630"
+    },
+    {
+      "filename": "dtr3108.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr3108.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 60905,
+      "sha256": "e9211f8265082774be313b56e781d629e5456578f9766ee8477d0e674dee9c8e"
+    },
+    {
+      "filename": "dtr3008.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr3008.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 60021,
+      "sha256": "4616eb84c0d399030b7e7ffe74d50c62e928c0172513e084fce9b8eb67d8f545"
+    },
+    {
+      "filename": "dtr2908.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2908.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 65044,
+      "sha256": "34f7bd338e5b1bc0be8f73a27d56744f9bba5ca224fc858685293867f3bcaca4"
+    },
+    {
+      "filename": "dtr2808.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2808.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68255,
+      "sha256": "594506c28aa8a6f12118fe275472b2e475a6f7fcf719726d4bb5b4acc489eb20"
+    },
+    {
+      "filename": "dtr2708.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2708.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69569,
+      "sha256": "fcbddbc4b69c1eea4056c8bfd97f3ec8e7b1b182e1f7b70665a10ee9c99dc4ab"
+    },
+    {
+      "filename": "dtr2608.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2608.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67581,
+      "sha256": "084efe894bfc681c2c5af62be071f82e56fe85e8768b62f25112a3847f130082"
+    },
+    {
+      "filename": "dtr2508.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2508.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 66008,
+      "sha256": "33c3c0b6a513e58da05a39f9b9e77c963ec6dc6a8e96ff77c4b39375a9525b68"
+    },
+    {
+      "filename": "dtr2408.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2408.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 63855,
+      "sha256": "3e5459b5be4cc98621fd8652c7e352e9114a05f99832dcb0af48dcd8edfbca13"
+    },
+    {
+      "filename": "dtr2308.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2308.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 64612,
+      "sha256": "a746d36336e5e29297c5b5e1a455fd2b677de77f9b0267c7041fe25b94a291d1"
+    },
+    {
+      "filename": "DTR2208-3.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/DTR2208-3.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 60484,
+      "sha256": "935e3902da4edfc32cd535e4a93ff2236218451a2d20b836f60beae744451680"
+    },
+    {
+      "filename": "dtr2108.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2108.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62021,
+      "sha256": "8eef54af612d135ee3215d424acef8cc359012b6e0bdfcc4c9115e73b6d25b82"
+    },
+    {
+      "filename": "dtr2008-3.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr2008-3.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68552,
+      "sha256": "5745d45128588fdebb99460259b699a1c95860709cf0ad4fca3c0b2a17bd8476"
+    },
+    {
+      "filename": "dtr1908.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1908.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67483,
+      "sha256": "0d800b494278841ca95aa8b77aafd5272aa5eb56d9a00bfee9ca811151a621d8"
+    },
+    {
+      "filename": "dtr1808_compressed.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1808_compressed.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 58792,
+      "sha256": "d829d55430f0a9563ae965bd6e6bd444974d31af3f85e27566377825022d9663"
+    },
+    {
+      "filename": "dtr1708.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1708.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 66753,
+      "sha256": "c6b5c386210d2ca2bedecf00440bd02b4dfcf96bcd5c7b4d7004ed6e55322d8e"
+    },
+    {
+      "filename": "dtr1608-4.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1608-4.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67110,
+      "sha256": "818f1b2eac8e7faef2fb3f8595d64c985ba7160633ec51b5d75f1083f482a32d"
+    },
+    {
+      "filename": "dtr1508-2.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1508-2.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67400,
+      "sha256": "e01d508df4d599fee03679828a6b9fe2aba11eaafc7df8ef1324b46c269d9297"
+    },
+    {
+      "filename": "dtr1408-2.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1408-2.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68518,
+      "sha256": "f95ccfa43b1964e4c441f0b9f7591168fa1040b94e5d20f30903e1e2288d7483"
+    },
+    {
+      "filename": "dtr1308.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1308.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 66472,
+      "sha256": "7decaae6164455fd3d4f9633e22595024b33cb30b29b270c93e5e10d34154df4"
+    },
+    {
+      "filename": "dtr1208.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1208.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 71373,
+      "sha256": "9f8d36caa1a5b0f8ce9151d1aae8d75de4651589f24d8f0bec933e2b4a86c141"
+    },
+    {
+      "filename": "dtr1108.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1108.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70931,
+      "sha256": "f8769b097644b5a92d099ed5d625d775f0c5d243a14c84699bd8c4e6afbde901"
+    },
+    {
+      "filename": "dtr1008.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr1008.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68258,
+      "sha256": "b98ac59226ec74c14e37f86962891df5efd2391264c311d1f590fedc667cbf19"
+    },
+    {
+      "filename": "dtr0908.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0908.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67165,
+      "sha256": "5a0c842f750d77e914d51b66fce9675a79753df0f16e0a95cd7d251e05d03e0e"
+    },
+    {
+      "filename": "dtr0808.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0808.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69266,
+      "sha256": "0b7de7c28098cd43cae1e235c607da3e06c6baa2e0b883d041df34c12849ad45"
+    },
+    {
+      "filename": "dtr0708.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0708.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70432,
+      "sha256": "16d86ac08d7fccb6b99422b01de5cc550bd881034caf9a383effcdb83bb6e476"
+    },
+    {
+      "filename": "dtr0608.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0608.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67675,
+      "sha256": "9ba5bf35517f9dea0dc2f80d00e8964dabfbe0ebe00787f15866a09ee7a03475"
+    },
+    {
+      "filename": "dtr0508.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0508.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70479,
+      "sha256": "9b69f5c0d4d47e2c75065e905a6e8cd69c29920a32149fc6957e4cd55bc16d59"
+    },
+    {
+      "filename": "dtr0408.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0408.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70058,
+      "sha256": "6bcd20f387d0db1f47b50302098592af7c15b1e5ee071aef580dc925eaa73c18"
+    },
+    {
+      "filename": "dtr0308.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0308.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72083,
+      "sha256": "a0b72c0e0c7d9139bea5b1dc7d467f057915edb9b6215cd8a46459223fac7cd8"
+    },
+    {
+      "filename": "dtr0208.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0208.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 77380,
+      "sha256": "aa11eb0dbb1dea1b423076942b8cd54a3e8d51f30fcdcd30bb8f9d35a99d2422"
+    },
+    {
+      "filename": "dtr0108.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/08/dtr0108.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72165,
+      "sha256": "eb6c4a720bea9b2c9d1a76fe3a6c4e2643e5a7e69af501c1e13b5a14438db28a"
+    },
+    {
+      "filename": "dtr3107.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr3107.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69158,
+      "sha256": "25a8f7f47494038f397af48778ca1944572eb57b07ace9b7f16f0ea86f8cb537"
+    },
+    {
+      "filename": "dtr3007-2.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr3007-2.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69819,
+      "sha256": "bb6c5c48721e89f2bd0e8d0ab8528f632adcd479a79a02528f126ff8f92594e7"
+    },
+    {
+      "filename": "dtr2907.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2907.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69600,
+      "sha256": "fa74eeff7014646b95e41ab9f6839573887dcc63159598bd1933ce04c351ecef"
+    },
+    {
+      "filename": "dtr2807.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2807.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72224,
+      "sha256": "e673657bcac0dd7cf0408f7e747bc8ca0c6a632ceb518847d1bd2b7f369073f7"
+    },
+    {
+      "filename": "dtr2707.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2707.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72437,
+      "sha256": "8fe78121e8d9ad63921fd171b2b60c5219e9e9028b1dfaef69b8a74d2cc86388"
+    },
+    {
+      "filename": "dtr2607-2.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2607-2.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 74099,
+      "sha256": "db1a1f6f0f5663e1b856f4f60b46b7a13fbb971000aa708c6a454eb21320db06"
+    },
+    {
+      "filename": "dtr2507.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2507.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72643,
+      "sha256": "0c3eb5ef9eecdf57fd319f0086a514080cf3495daea81cd02103004056f0ce11"
+    },
+    {
+      "filename": "dtr2407.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2407.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 75353,
+      "sha256": "530fffe477c976abf238907f57269a57d4137102b94e9395d514875169e358fc"
+    },
+    {
+      "filename": "dtr2307.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2307.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72173,
+      "sha256": "ea2a63d8c82a9f181175e9be0ad954f3383c64ab5c9fd8454cc8293bdc0ff286"
+    },
+    {
+      "filename": "dtr2207.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2207.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 71865,
+      "sha256": "b8e9b6dad33cdf60d8160e110b40842f66bb0add47c05f5f63477dbedcac3be8"
+    },
+    {
+      "filename": "dtr2107.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2107.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 71093,
+      "sha256": "c3034f55ecfeeb602d63a0c7969b3b5e5909628f81fab4a11758269fc5cdeef1"
+    },
+    {
+      "filename": "dtr2007.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr2007.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 65090,
+      "sha256": "628bc79c2449e72f13e56c579d333d97b94e6a25f54adad2a02712050a6f4515"
+    },
+    {
+      "filename": "dtr1907.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1907.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72668,
+      "sha256": "bbb9b7da42b4736619df8abe60690f486bbd6556342f1bb5d80682f588ec7791"
+    },
+    {
+      "filename": "dtr1807.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1807.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72617,
+      "sha256": "7f5fd7256c7c67c357871aec5440df87c381f732b42117b5c160bd1939e7c286"
+    },
+    {
+      "filename": "dtr1707.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1707.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67758,
+      "sha256": "d1f52c68eca581c7b5ef7f45c64fd0d9fca5437f38eacfe3e1c79acb581b5ff6"
+    },
+    {
+      "filename": "dtr1607.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1607.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67655,
+      "sha256": "0f490215a079983fd82c4ad1e456a3f030446d2619ebc067119e56b0791c1b13"
+    },
+    {
+      "filename": "dtr1507.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1507.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69050,
+      "sha256": "89fc1a08c7e0796a941ed764294bf3be0aa4aacdd1fc990b9fda8cb9beeb8187"
+    },
+    {
+      "filename": "dtr1407.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1407.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 66224,
+      "sha256": "4ce80d561c5d36d057b20777d04dd00c201093373a46aae4b979c878ca2f514b"
+    },
+    {
+      "filename": "dtr1307.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1307.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68011,
+      "sha256": "47bef1f6f9dd7e224ab5f58e55f4ed64856546b82a95717ef5596e0be7d27a67"
+    },
+    {
+      "filename": "dtr1207.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1207.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72525,
+      "sha256": "eba248293bcf425ff2dbaf1610a7929f8d3e91c0139be9c79f79dc3204b2a0c3"
+    },
+    {
+      "filename": "dtr1107.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1107.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 74152,
+      "sha256": "89ad9d263dd48544b8e2049d32a11d0437473c2b0e29e3af11c7db2f08690854"
+    },
+    {
+      "filename": "dtr1007.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr1007.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 78111,
+      "sha256": "a02f1df836367949cb1f8724ff9d40ab7c26ec4539128b29a213dd36e18752e6"
+    },
+    {
+      "filename": "dtr0907.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0907.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 74294,
+      "sha256": "b08ab45044750ceb77248809297906d45d7e58561d4c6002d0fe58422a8a1bb9"
+    },
+    {
+      "filename": "dtr0807.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0807.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68698,
+      "sha256": "cc14cd4634beceefc729399711df1b75c3ef149d536852b0719963e3da07e1a5"
+    },
+    {
+      "filename": "dtr0707.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0707.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70973,
+      "sha256": "3aa1f42bc211356761f497f790087897e91997ea4c718bef50030eef0b768757"
+    },
+    {
+      "filename": "dtr0607.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0607.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68166,
+      "sha256": "21af0060931bec3e34704a061ac19eab8b7c22a4e12cf40751caddd9ecce65e5"
+    },
+    {
+      "filename": "dtr0507.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0507.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 71093,
+      "sha256": "da3bd08f88580ce4d8d3dd9dd418d983c7f813c00fc2a08eb8bf25f4e2f024f9"
+    },
+    {
+      "filename": "dtr0407.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0407.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 73212,
+      "sha256": "cfac11ab9e2355768c0df568d90e045cb0b18a20adce89e974000c81fb97332d"
+    },
+    {
+      "filename": "dtr0307.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0307.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 65815,
+      "sha256": "65a2c38e0514912a1992b57d3e9586af7428f4cdef4914e298b46e2caba66d2a"
+    },
+    {
+      "filename": "dtr0207.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/dtr0207.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 64405,
+      "sha256": "44fe19654610e1b2603c98d289a7f1c004ea121dfa1feb18e896e7dbd8c2a4fc"
+    },
+    {
+      "filename": "DTR0107.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/07/DTR0107.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70147,
+      "sha256": "11d2344ea60ad5c385f448c39adf7f83ab41a1e57658c5edb4c6ec227f030ba9"
+    },
+    {
+      "filename": "dtr3006.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr3006.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69513,
+      "sha256": "ab6522552c29ab7ffce3c6236db36f7030d757b5102da7d5a8cef54c0ea19e10"
+    },
+    {
+      "filename": "dtr2906.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2906.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69433,
+      "sha256": "f0b202e73d9386c97a555c950b44dc58773abbe648c7295407cad7bed472e956"
+    },
+    {
+      "filename": "dtr2806.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2806.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70260,
+      "sha256": "7bc166cf6752708ed180eef26bb835821e02238ec9f91c02eb5fc844b612649c"
+    },
+    {
+      "filename": "dtr2706.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2706.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67464,
+      "sha256": "c9d9a00d737ff101640f6224726c387389c7626a25af77d4967afebbf9f3b9b0"
+    },
+    {
+      "filename": "dtr2606.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2606.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 68929,
+      "sha256": "79de079c333c9479f172f8bae404064f017ff024c1661966585fc26df68d6c08"
+    },
+    {
+      "filename": "dtr2506.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2506.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67892,
+      "sha256": "562a3e2119c0e5de2c97c7cf76c93b1e91ea8de692c861a25657f5d491d91c52"
+    },
+    {
+      "filename": "dtr2406.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2406.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 70143,
+      "sha256": "c872e9056e04fe089022efec67d58ab0190d51ede72e593ae41a4cb785767892"
+    },
+    {
+      "filename": "dtr2306.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2306.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67338,
+      "sha256": "19087a58047b4edbdc1e120875ea86c58c78fa5421190a4db496c9a0270d42cc"
+    },
+    {
+      "filename": "dtr2206.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2206.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 64076,
+      "sha256": "6cd3460c9ed51be2426f1dad9e7b1d83100961d89d6c3e3038ffc30c45dd5d78"
+    },
+    {
+      "filename": "dtr2106.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2106.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 64064,
+      "sha256": "944b99284a1b85affe0fbe648c9b13e59e2b37dc079138e6517ae57cd63efafc"
+    },
+    {
+      "filename": "dtr2006.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr2006.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62593,
+      "sha256": "04d8327e4c54db09129d25640f241b2ddd91e664c837fd216d36757080d0b653"
+    },
+    {
+      "filename": "dtr1906.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr1906.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 60557,
+      "sha256": "cf52c213b65238134069ac37d59d12cdd9bfac972c8be24f85ac8603f1c7cae4"
+    },
+    {
+      "filename": "dtr1806.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2026/06/dtr1806.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62182,
+      "sha256": "17443acabe3b090f5c4836eb612363a6e5f9d90f31bb93460722b87ff55d160d"
+    },
+    {
+      "filename": "dtr0511.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0511.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 60455,
+      "sha256": "942a3442226a510ec2fc6964703960eb042e7e93533bb9e887a0bbaa3c32f718"
+    },
+    {
+      "filename": "dtr0411.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0411.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 60436,
+      "sha256": "377822e31c1ee1fde3a7fdd6b2d0b0d6e7dfd6ac293fa9bc5a6fd9bf45a03256"
+    },
+    {
+      "filename": "dtr0311.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0311.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 61110,
+      "sha256": "4794b9cd746a3527e7db0648406317bd1ecc2b730e7dd6fda288bd87f4e65692"
+    },
+    {
+      "filename": "dtr0211.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0211.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 61827,
+      "sha256": "0536b825335411d9c564f501a7839973201151d6f4a521dc2e2361fd91f340e6"
+    },
+    {
+      "filename": "dtr0111.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0111.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 61987,
+      "sha256": "01b7ac88c784ddc900dcd566a1a8f4c527db515cc0f189e1b719e33c883266ee"
+    },
+    {
+      "filename": "dtr3110.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr3110.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67545,
+      "sha256": "ba6e2e075b66cbbb7c06170b3a91742a1d60e74f679059b496b5e2ab07cba5d6"
+    },
+    {
+      "filename": "dtr3010.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr3010.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69243,
+      "sha256": "0388065e89723caf8d8b4aece6b27bc353086cb99521724c497348892b742648"
+    },
+    {
+      "filename": "dtr2910.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2910.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 63454,
+      "sha256": "2d5fbcd729e6a2f6aea5a4b52ae4a2dbf1f25a7e04e7bd020aecbb8ce9a53dc0"
+    },
+    {
+      "filename": "dtr2810.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2810.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 64233,
+      "sha256": "77e256149cc1c55a5402a635995a85a9b03ce20ca8233129a2b239fa3a6fe60e"
+    },
+    {
+      "filename": "dtr2710.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2710.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 64612,
+      "sha256": "82c8622add9a4e401ecab648063e764eac67b3301f73e20f0370317e15c187a4"
+    },
+    {
+      "filename": "dtr2610.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2610.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62398,
+      "sha256": "8a2c91638a8252c595c507038232c91d82fe9246a79dce04fdc769968f76b22a"
+    },
+    {
+      "filename": "dtr2510.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2510.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62161,
+      "sha256": "702d516799d856824f5795d11a33b7cbadf1194b977b2b60b4996f192896a656"
+    },
+    {
+      "filename": "dtr2410.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2410.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62418,
+      "sha256": "02479ff75ac20e4176f4aea5ea8b544106953ca81af7331f0939df8998e0bed9"
+    },
+    {
+      "filename": "dtr2310.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2310.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 62093,
+      "sha256": "4c1147017328c0c5a518f4aca633294f4609cee9d6c550b90a2d3b1eed8c071d"
+    },
+    {
+      "filename": "dtr2210.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2210.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 63353,
+      "sha256": "e21b489486083766d3021eb521191151b0d79fbb9ed5b18e327df642076630a9"
+    },
+    {
+      "filename": "dtr2110.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2110.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 66473,
+      "sha256": "9915ff2c76041c7e6cc780a7547e80235a6f85fa7148e539baf094ebb194762c"
+    },
+    {
+      "filename": "dtr2010.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr2010.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 66673,
+      "sha256": "b797182ad566a8c06beca5953639baa1201fdecfc5b5d808830438a294502939"
+    },
+    {
+      "filename": "dtr1910.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1910.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67403,
+      "sha256": "c7fa8b772e6f5957a8613cfc95191b6c16468bea9246d86946f80469d6d26bb1"
+    },
+    {
+      "filename": "dtr1810.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1810.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 69620,
+      "sha256": "869cb8737a193062aa32a1d80f8e790647b50dd73078e19cdd151537d348f902"
+    },
+    {
+      "filename": "dtr1710.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1710.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 67824,
+      "sha256": "75c9ec349dd1ffb790f819a964558aa09c0e1391ada7cd569fd3ff11dc8b040c"
+    },
+    {
+      "filename": "dtr1610.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1610.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 75699,
+      "sha256": "a2e8040148201634c5cfbee446c8d9da81d3103fd2f75ca73eeab7927b54d202"
+    },
+    {
+      "filename": "dtr1510.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1510.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 72569,
+      "sha256": "9bf55c3a5f230ca3457038178969baa55146cf489db5d0432fa1dbed0b46f1e7"
+    },
+    {
+      "filename": "dtr1410.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1410.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 71644,
+      "sha256": "29d3913c3849b408b8ddb8e56d4d575eba12b963e4a590c490ab29fc1acab948"
+    },
+    {
+      "filename": "dtr1310.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1310.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 71228,
+      "sha256": "e4473768cdf5b2fe34d902b5e626138d5943a63215f0b722d2e749e79e8920e6"
+    },
+    {
+      "filename": "dtr1210.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1210.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 73949,
+      "sha256": "b17149ded9b5c9febd342d4a007ea68ace1ca4ade83f28879fb87d451b0d61da"
+    },
+    {
+      "filename": "dtr1110.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1110.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 73806,
+      "sha256": "06d99c324b58264b0f7c39a55324f8f0af049d394e4ff62ecb9739a713b3efda"
+    },
+    {
+      "filename": "dtr1010.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr1010.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 81775,
+      "sha256": "1e4427471a81ff3db7817ce6634a769e994333b9f321aec6f286f88f7a6dd716"
+    },
+    {
+      "filename": "dtr0910.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0910.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 76665,
+      "sha256": "5ddcdab378d0e27a6e2f1034d7602349f3d250094f72eda33c5559e621fef3d0"
+    },
+    {
+      "filename": "dtr0810.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0810.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 82161,
+      "sha256": "66da949c05a10c439484e4d9bee2d5ba1e08c8b1f41adf413e40c39ec1d47cb4"
+    },
+    {
+      "filename": "dtr0710.pdf",
+      "url": "https://www.paradipport.gov.in/uploads/2025/11/dtr0710.pdf",
+      "source_page": "https://paradipport.gov.in/traffic/",
+      "status": "downloaded",
+      "bytes": 78650,
+      "sha256": "4ee421719ecd77deaa6c78010c73d151de38f33b464303b2a53f71a2d4521e38"
+    }
+  ]
+}

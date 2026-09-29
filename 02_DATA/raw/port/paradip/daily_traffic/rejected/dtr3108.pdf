@@ -1,0 +1,246 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>404 - Page Not Found</title>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #f7f9fc;
+        font-family: Arial, Helvetica, sans-serif;
+        overflow: hidden;
+        color: #1f2937;
+    }
+
+    /* Background circles */
+    body::before,
+    body::after {
+        content: "";
+        position: fixed;
+        border-radius: 50%;
+        z-index: -1;
+        opacity: .5;
+        animation: float 6s ease-in-out infinite;
+    }
+
+    body::before {
+        width: 280px;
+        height: 280px;
+        background: #e7f1ff;
+        top: -100px;
+        left: -80px;
+    }
+
+    body::after {
+        width: 350px;
+        height: 350px;
+        background: #eef2ff;
+        right: -120px;
+        bottom: -150px;
+        animation-delay: 1.5s;
+    }
+
+    .error-wrapper {
+        width: min(90%, 700px);
+        text-align: center;
+        padding: 40px 20px;
+    }
+
+    /* 404 */
+    .error-code {
+        position: relative;
+        display: inline-block;
+        font-size: clamp(7rem, 20vw, 13rem);
+        line-height: .85;
+        font-weight: 900;
+        letter-spacing: -10px;
+        color: #e8edf5;
+        user-select: none;
+        animation: floating 4s ease-in-out infinite;
+    }
+
+    .error-code span {
+        display: inline-block;
+        color: #092356;
+        animation: bounce 2.5s ease-in-out infinite;
+    }
+
+    .error-code span:nth-child(1) {
+        animation-delay: 0s;
+    }
+
+    .error-code span:nth-child(2) {
+        animation-delay: .15s;
+    }
+
+    .error-code span:nth-child(3) {
+        animation-delay: .3s;
+    }
+
+    h1 {
+        margin-top: 35px;
+        font-size: 32px;
+        font-weight: 700;
+        color: #111827;
+    }
+
+    .description {
+        max-width: 520px;
+        margin: 12px auto 0;
+        font-size: 16px;
+        line-height: 1.7;
+        color: #6b7280;
+    }
+
+    .home-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        margin-top: 28px;
+        padding: 13px 27px;
+        background: #092356;
+        color: #fff;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 600;
+        box-shadow: 0 8px 20px rgba(37, 99, 235, .2);
+        transition: all .3s ease;
+    }
+
+    .home-btn:hover {
+        background: #1d4ed8;
+        transform: translateY(-3px);
+        box-shadow: 0 12px 25px rgba(37, 99, 235, .3);
+    }
+
+    .home-btn svg {
+        width: 17px;
+        height: 17px;
+        transition: transform .3s ease;
+    }
+
+    .home-btn:hover svg {
+        transform: translateX(-3px);
+    }
+
+    /* Animations */
+
+    @keyframes floating {
+        0%, 100% {
+            transform: translateY(0);
+        }
+
+        50% {
+            transform: translateY(-12px);
+        }
+    }
+
+    @keyframes bounce {
+        0%, 100% {
+            transform: translateY(0);
+        }
+
+        50% {
+            transform: translateY(-8px);
+        }
+    }
+
+    @keyframes pulse {
+        0% {
+            box-shadow: 0 0 0 0 rgba(239, 68, 68, .45);
+        }
+
+        70% {
+            box-shadow: 0 0 0 14px rgba(239, 68, 68, 0);
+        }
+
+        100% {
+            box-shadow: 0 0 0 0 rgba(239, 68, 68, 0);
+        }
+    }
+
+    @keyframes float {
+        0%, 100% {
+            transform: translateY(0) scale(1);
+        }
+
+        50% {
+            transform: translateY(-20px) scale(1.04);
+        }
+    }
+
+    /* Mobile */
+    @media (max-width: 576px) {
+
+        .error-wrapper {
+            padding: 25px 15px;
+        }
+
+        .error-code {
+            letter-spacing: -5px;
+        }
+
+        h1 {
+            font-size: 25px;
+            margin-top: 28px;
+        }
+
+        .description {
+            font-size: 14px;
+        }
+
+        .home-btn {
+            padding: 12px 22px;
+        }
+    }
+</style>
+</head>
+
+<body>
+
+<div class="error-wrapper">
+
+    <div class="error-code">
+        <span>4</span><span>0</span><span>4</span>
+    </div>
+
+    <h1>Page Not Found</h1>
+
+    <p class="description">
+        Sorry, the page you are looking for may have been moved,
+        removed, or is temporarily unavailable.
+    </p>
+
+    <a href="/" class="home-btn">
+
+        <svg viewBox="0 0 24 24" fill="none"
+             stroke="currentColor"
+             stroke-width="2"
+             stroke-linecap="round"
+             stroke-linejoin="round">
+            <path d="M19 12H5"></path>
+            <path d="M12 19l-7-7 7-7"></path>
+        </svg>
+
+        Back to Homepage
+
+    </a>
+
+</div>
+
+</body>
+</html>

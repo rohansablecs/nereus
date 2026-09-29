@@ -1,0 +1,5 @@
+vessel_class,dwt_mt,loa_m,beam_m,draft_m,design_speed_kn,design_consumption_laden_mt_day,design_consumption_ballast_mt_day,consumption_basis,status
+Handysize,28000,178,28.5,10.15,14.0,22,22,Clarksons_standard_bulkcarrier,reference
+Supramax,58000,190,32.3,12.85,14.0,33,32,Clarksons_standard_bulkcarrier,reference
+Panamax,74000,229,32.3,14.25,14.0,32,28,Clarksons_standard_bulkcarrier,reference
+Capesize,180000,289,45.0,18.20,14.0,62,62,Clarksons_standard_bulkcarrier,reference

@@ -1,0 +1,6 @@
+experiment,features,mae_days,rmse_days,mae_improvement_pct
+A_BASELINE,"cargo, berth, quantity_mt",1.2328193630022883,2.138668570140876,0.0
+B1_TOTAL_WAITING,"cargo, berth, quantity_mt, vessels_waiting_anchorage",1.1750095977773705,2.1609823853371943,4.689232417970269
+B2_DRY_BULK_VESSELS,"cargo, berth, quantity_mt, dry_bulk_vessels_waiting",1.136849568982939,2.024145577997252,7.78457873874027
+B3_DRY_BULK_CARGO,"cargo, berth, quantity_mt, dry_bulk_cargo_mt_waiting",1.172810790130659,2.1419017739699346,4.867588445844189
+B4_ALL_WAITING,"cargo, berth, quantity_mt, vessels_waiting_anchorage, dry_bulk_vessels_waiting, dry_bulk_cargo_mt_waiting",1.1697121626826057,2.1304417837943617,5.118933252800111

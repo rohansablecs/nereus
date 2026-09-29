@@ -1,0 +1,19 @@
+location_id,name,role,country,longitude,latitude,coordinate_source,coordinate_source_type,endpoint_type,coordinate_status,weather_location_id,weather_latitude,weather_longitude
+AU_NEWCASTLE,Newcastle,origin,Australia,151.85635,-32.96412,Newcastle official Pilot Boarding Ground Alpha,official_maritime,pilot_boarding_ground,verified_override,newcastle_au,-32.92435,151.79096
+AU_HAY_POINT,Hay Point,origin,Australia,149.30546,-21.239963,Queensland Maritime Safety Queensland Notice 350(T) of 2026 — Hay Point Channel,official_maritime,channel_entrance,verified_override,hay_point_au,-21.26667,149.30111
+MZ_BEIRA,Beira,origin,Mozambique,34.83555,-19.81834,Port reference coordinate,master_registry_reference,port,master_registry_coordinate,beira_mz,-19.81834,34.83555
+MZ_MAPUTO,Maputo,origin,Mozambique,32.54528,-25.96034,Port reference coordinate,master_registry_reference,port,master_registry_coordinate,maputo_mz,-25.96034,32.54528
+RU_VOSTOCHNY,Vostochny,origin,Russia,133.08167,42.75278,Port reference coordinate,master_registry_reference,port,master_registry_coordinate,vostochny_ru,42.7415,133.07981
+RU_TAMAN,Taman,origin,Russia,36.73361,45.30444,Port reference coordinate,master_registry_reference,port,master_registry_coordinate,taman_ru,45.125,36.68306
+ID_SAMARINDA,Samarinda,origin,Indonesia,117.1538,-0.50218,Port reference coordinate,master_registry_reference,port,master_registry_coordinate,samarinda_id,-0.50211,117.15371
+ZA_RICHARDS_BAY,Richards Bay,origin,South Africa,32.03863,-28.78301,Port reference coordinate,master_registry_reference,port,master_registry_coordinate,richards_bay_za,-28.78301,32.03767
+US_NORFOLK,Norfolk,origin,USA,-76.329056,36.918448,USACE Norfolk District — Norfolk International Terminals project location,official_maritime,port_terminal_reference,verified_override,,,
+US_BALTIMORE,Baltimore,origin,USA,-76.616667,39.283333,UN/LOCODE US BAL — Baltimore reference coordinate,maritime_reference,port,verified_override,,,
+US_MOBILE,Mobile,origin,USA,-88.043311,30.712169,Alabama Port Authority — Mobile port project reference coordinate,official_port_reference,port,verified_override,,,
+US_NEW_ORLEANS,New Orleans,origin,USA,-90.06189,29.93689,Port of New Orleans — port reference location,port_reference,port,verified_override,,,
+IN_PARADIP,Paradip,destination,India,86.583333,20.25,UN/LOCODE / Paradip Port reference coordinate,maritime_reference,port,verified_override,paradip_in,20.2669,86.6997
+IN_DHAMRA,Dhamra,destination,India,86.95,20.816667,UN/LOCODE / Dhamra Port reference coordinate,maritime_reference,port,verified_override,dhamra_in,20.7833,86.95
+IN_GOPALPUR,Gopalpur,destination,India,84.964444,19.303611,Official Gopalpur Port coordinate,official_port,port,verified_override,gopalpur_in,19.2667,84.9167
+IN_VISAKHAPATNAM,Visakhapatnam,destination,India,83.3,17.7,UN/LOCODE / Visakhapatnam reference coordinate,maritime_reference,port,verified_override,visakhapatnam_in,17.6868,83.2185
+IN_GANGAVARAM,Gangavaram,destination,India,83.25,17.65,UN/LOCODE / Gangavaram reference coordinate,maritime_reference,port,verified_override,gangavaram_in,17.6231,83.2749
+IN_HALDIA,Haldia,destination,India,88.083333,22.033333,Official SMPK Haldia reference coordinate,official_port,port,verified_override,haldia_in,22.0257,88.0583

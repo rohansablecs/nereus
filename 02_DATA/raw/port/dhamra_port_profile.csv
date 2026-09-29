@@ -1,0 +1,2 @@
+port,channel_length_km,outer_channel_depth_m,outer_channel_width_m,inner_channel_width_m,turning_basin_diameter_m,source_document
+Dhamra,18.0,17.5,240.0,170.0,600.0,dhamra_port_information.pdf

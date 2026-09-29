@@ -1,0 +1,9 @@
+port,rule,value,source_page
+Gangavaram,berthing_scheme,FCFS,10
+Gangavaram,monsoon_period,01 May - 30 Nov,8
+Gangavaram,free_time_before_cargo_hours,3,14
+Gangavaram,maximum_total_cargo_stoppage_hours,2,14
+Gangavaram,minimum_inward_pilot_notice_hours,2,15
+Gangavaram,minimum_outward_pilot_notice_hours,2,15
+Gangavaram,loaded_cape_tidal_restriction,B5-B6 berthing; B4 unberthing,20
+Gangavaram,minimum_safe_clearance_between_vessels_m,20,19

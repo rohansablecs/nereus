@@ -1,0 +1,20 @@
+{
+  "source_file": "02_DATA/raw/port/gopalpur_berthing_policy_2026-06.pdf",
+  "source_type": "official_port_berthing_policy",
+  "retrieved_at_utc": "2026-09-07T15:59:24.607776+00:00",
+  "source_page": 21,
+  "berth_record_count": 3,
+  "columns": [
+    "berth",
+    "loa_m",
+    "displacement_mt",
+    "max_draft_m",
+    "allocation_priority"
+  ],
+  "operational_rules": {
+    "maximum_permissible_draft_policy": "Maximum permissible draft at each berth is promulgated on a monthly basis.",
+    "weather_wind_threshold_kt": 25.0,
+    "maximum_trim_m": 2.5,
+    "maximum_list_deg": 0.0
+  }
+}

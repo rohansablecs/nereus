@@ -1,0 +1,47 @@
+{
+  "dataset": "Paradip daily operational history",
+  "source_directory": "/Users/rohandnyaneshwarsable/coding/NEREUS/02_DATA/raw/port/paradip/daily_traffic",
+  "date_source": "filename",
+  "filename_date_pattern": "DTRDDMM",
+  "source_files": 113,
+  "successful_files": 111,
+  "failed_files": 2,
+  "unique_report_dates": 111,
+  "duplicate_date_groups": 0,
+  "failed_files_detail": [
+    {
+      "file": "dtr0209__compressed.pdf",
+      "error": "Could not parse report date from filename: dtr0209__compressed.pdf"
+    },
+    {
+      "file": "dtr1808_compressed.pdf",
+      "error": "Could not parse report date from filename: dtr1808_compressed.pdf"
+    }
+  ],
+  "date_min": "2025-10-07",
+  "date_max": "2026-09-08",
+  "columns": [
+    "date",
+    "vessels_waiting_anchorage",
+    "dry_bulk_vessels_waiting",
+    "dry_bulk_cargo_mt_waiting",
+    "vessels_expected",
+    "dry_bulk_vessels_expected",
+    "dry_bulk_cargo_mt_expected",
+    "berth_events",
+    "sail_events",
+    "shift_events",
+    "dry_bulk_berth_events",
+    "dry_bulk_sail_events",
+    "unique_berth_events",
+    "source_file"
+  ],
+  "notes": [
+    "Canonical report date is derived from the DTRDDMM filename because PDF text contains multiple operational dates.",
+    "Files with suffixes such as -2 are treated as alternate copies of the same report date.",
+    "Duplicate same-date files are combined conservatively using maximum available operational signal values.",
+    "The dataset contains daily operational snapshots, not vessel-level waiting-time labels.",
+    "vessels_waiting_anchorage represents vessels reported waiting at anchorage in the source report.",
+    "unique_berth_events counts distinct berth labels observed in the report's BERTHING MOVEMENTS section and is not simultaneous berth occupancy."
+  ]
+}

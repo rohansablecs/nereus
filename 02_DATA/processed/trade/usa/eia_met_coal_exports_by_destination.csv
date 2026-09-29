@@ -1,0 +1,44 @@
+entity,q1_2026,q4_2025,q1_2025,ytd_2026,ytd_2025,percent_change,metric,unit,geography_level
+North America Total,103559.0,832611.0,103704.0,103559.0,103704.0,-0.1,us_met_coal_exports,short_tons,destination_country
+Canada*,102763.0,832255.0,81992.0,102763.0,81992.0,25.3,us_met_coal_exports,short_tons,destination_country
+Dominican Republic,,,15334.0,,15334.0,,us_met_coal_exports,short_tons,destination_country
+Honduras,,,5908.0,,5908.0,,us_met_coal_exports,short_tons,destination_country
+Other**,796.0,356.0,470.0,796.0,470.0,69.4,us_met_coal_exports,short_tons,destination_country
+South America Total,1736556.0,1535137.0,1747729.0,1736556.0,1747729.0,-0.6,us_met_coal_exports,short_tons,destination_country
+Argentina,42726.0,90055.0,42373.0,42726.0,42373.0,0.8,us_met_coal_exports,short_tons,destination_country
+Brazil,1693830.0,1445082.0,1705356.0,1693830.0,1705356.0,-0.7,us_met_coal_exports,short_tons,destination_country
+Europe Total,4506402.0,4807815.0,4715348.0,4506402.0,4715348.0,-4.4,us_met_coal_exports,short_tons,destination_country
+Austria,,101980.0,278039.0,,278039.0,,us_met_coal_exports,short_tons,destination_country
+Belgium,136760.0,165777.0,112436.0,136760.0,112436.0,21.6,us_met_coal_exports,short_tons,destination_country
+Croatia,,62071.0,211106.0,,211106.0,,us_met_coal_exports,short_tons,destination_country
+Finland,26298.0,57986.0,,26298.0,,,us_met_coal_exports,short_tons,destination_country
+France,360730.0,261459.0,407603.0,360730.0,407603.0,-11.5,us_met_coal_exports,short_tons,destination_country
+"Germany, Federal Republic of",292292.0,387695.0,202973.0,292292.0,202973.0,44.0,us_met_coal_exports,short_tons,destination_country
+Italy,297266.0,112394.0,295413.0,297266.0,295413.0,0.6,us_met_coal_exports,short_tons,destination_country
+Netherlands,1314708.0,1212758.0,1431415.0,1314708.0,1431415.0,-8.2,us_met_coal_exports,short_tons,destination_country
+Norway,,12181.0,11354.0,,11354.0,,us_met_coal_exports,short_tons,destination_country
+Poland,305771.0,338542.0,388647.0,305771.0,388647.0,-21.3,us_met_coal_exports,short_tons,destination_country
+Spain,220728.0,256102.0,239603.0,220728.0,239603.0,-7.9,us_met_coal_exports,short_tons,destination_country
+Sweden,210436.0,229663.0,211879.0,210436.0,211879.0,-0.7,us_met_coal_exports,short_tons,destination_country
+Turkey,689700.0,1122128.0,433245.0,689700.0,433245.0,59.2,us_met_coal_exports,short_tons,destination_country
+Ukraine,511320.0,487079.0,423278.0,511320.0,423278.0,20.8,us_met_coal_exports,short_tons,destination_country
+United Kingdom,35673.0,,68357.0,35673.0,68357.0,-47.8,us_met_coal_exports,short_tons,destination_country
+Other**,104720.0,,,104720.0,,,us_met_coal_exports,short_tons,destination_country
+Asia Total,6891962.0,6040814.0,6102767.0,6891962.0,6102767.0,12.9,us_met_coal_exports,short_tons,destination_country
+China,67383.0,,910710.0,67383.0,910710.0,-92.6,us_met_coal_exports,short_tons,destination_country
+India,3615123.0,3338209.0,3020979.0,3615123.0,3020979.0,19.7,us_met_coal_exports,short_tons,destination_country
+Indonesia,1540682.0,1182414.0,606745.0,1540682.0,606745.0,153.9,us_met_coal_exports,short_tons,destination_country
+Japan,817194.0,879461.0,1030647.0,817194.0,1030647.0,-20.7,us_met_coal_exports,short_tons,destination_country
+Malaysia,163149.0,256990.0,245385.0,163149.0,245385.0,-33.5,us_met_coal_exports,short_tons,destination_country
+South Korea (Republic of Korea),513833.0,292345.0,128768.0,513833.0,128768.0,299.0,us_met_coal_exports,short_tons,destination_country
+Vietnam,174598.0,91395.0,159533.0,174598.0,159533.0,9.4,us_met_coal_exports,short_tons,destination_country
+Australia and Oceania Total,,,57.0,,57.0,,us_met_coal_exports,short_tons,destination_country
+Other**,,,57.0,,57.0,,us_met_coal_exports,short_tons,destination_country
+Africa Total,67506.0,60623.0,20471.0,67506.0,20471.0,229.8,us_met_coal_exports,short_tons,destination_country
+Egypt,67506.0,60623.0,20471.0,67506.0,20471.0,229.8,us_met_coal_exports,short_tons,destination_country
+Total,13305985.0,13277000.0,12690076.0,13305985.0,12690076.0,4.9,us_met_coal_exports,short_tons,destination_country
+"* Based on the U.S. - Canada Free Trade Agreement; as of January 1990, the U.S. Department of Commerce began  reporting statistics on U.S. exports to Canada based on information on imports provided monthly by the Canadian government.
+** Includes countries with coal exports less than or equal to 50,000 short tons in 2025.
+- = No data reported.
+Note: Total may not equal sum of components because of independent rounding.
+Source: U.S. Department of Commerce, Bureau of the Census, 'Monthly Report EM 545.'",,,,,,,us_met_coal_exports,short_tons,destination_country

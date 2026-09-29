@@ -1,0 +1,24 @@
+{
+  "port": "Visakhapatnam",
+  "programme_date": "2026-09-07",
+  "source_text": "vizag_berthing_programme_2026-09-07.txt",
+  "snapshot_time_utc": "2026-09-08T16:13:26.511429+00:00",
+  "datasets": [
+    "vizag_waiting_expected_current.csv",
+    "vizag_berth_occupancy_current.csv"
+  ],
+  "waiting_expected_rows": 52,
+  "berth_rows": 35,
+  "waiting_expected_tonnes_mt": 1961830.0,
+  "occupied_berths": 17,
+  "vacant_berths": 17,
+  "unavailable_berths": 1,
+  "notes": [
+    "Source is the official Visakhapatnam Port Authority berthing programme.",
+    "Waiting/expected data is a point-in-time snapshot.",
+    "Berth occupancy is a point-in-time operational snapshot.",
+    "Ambiguous PDF columns are preserved in raw_row rather than guessed.",
+    "Cargo wording is extracted directly from the source row.",
+    "No historical congestion values are inferred."
+  ]
+}

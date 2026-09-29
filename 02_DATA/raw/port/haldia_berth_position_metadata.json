@@ -1,0 +1,24 @@
+{
+  "port": "Haldia",
+  "dataset": "Current berth position",
+  "source_url": "https://smportkolkata.shipping.gov.in/smpk/hld/en/berth-position/",
+  "retrieved_at_utc": "2026-09-07T16:28:05.483165+00:00",
+  "rows": 1,
+  "columns": [
+    "port",
+    "snapshot_time_utc",
+    "source_url",
+    "berth_name",
+    "von",
+    "vessel_name",
+    "arrival_date",
+    "arrival_time",
+    "departure_date",
+    "departure_time"
+  ],
+  "notes": [
+    "Official Haldia Dock Complex berth-position page.",
+    "Source page states that records are displayed from the last 30 days.",
+    "This is operational activity data, not a historical congestion series."
+  ]
+}

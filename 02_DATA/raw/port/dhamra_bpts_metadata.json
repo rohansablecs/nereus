@@ -1,0 +1,19 @@
+{
+  "port": "Dhamra",
+  "dataset": "Current BPTS operational dataset",
+  "source_document": "Dhamra BPTS/DPC/07",
+  "effective_date": "2026-04-01",
+  "source_url": "https://www.adaniports.com/-/media/project/ports/portsandterminals/dhamra-port/tariff/dhamra-bpts_dpc_01-wef-1-apr-2026.pdf",
+  "source_status": "official_current_bpts",
+  "important_notes": [
+    "Trade notices issued after this BPTS can change applicable rates/policies.",
+    "Only directly useful structured facts are normalized.",
+    "Original BPTS PDF remains the authoritative source.",
+    "No unsupported vessel-class assumptions are introduced."
+  ],
+  "datasets": [
+    "dhamra_bpts_berths.csv",
+    "dhamra_bpts_handling.csv",
+    "dhamra_bpts_rules.csv"
+  ]
+}

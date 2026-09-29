@@ -1,0 +1,14 @@
+{
+  "source": "Paradip Port Authority Daily Traffic Update",
+  "parser_version": "v9_raw_line",
+  "generated_at_utc": "2026-09-07T20:02:12.245305+00:00",
+  "files": [
+    {
+      "source_pdf": "dtr0709.pdf",
+      "traffic_date": "2026-09-06",
+      "held_on_date": "2026-09-07",
+      "waiting_rows": 13
+    }
+  ],
+  "total_rows": 13
+}

@@ -1,0 +1,4 @@
+port,rule_id,category,parameter,requirement,value,unit,source_document,source_file,status
+Dhamra,MOOR-001,mooring_equipment,annual_brake_testing,"Annual brake testing of all mooring winches, including brake holding power and rendering.",,,Dhamra Port Mooring Guidelines,dhamra_mooring_guidelines.pdf,source_rule
+Dhamra,MOOR-002,mooring_equipment,winch_brake_rendering,Winch brakes to be set to render at 60% of MBL of the mooring rope in use.,60.0,% MBL,Dhamra Port Mooring Guidelines,dhamra_mooring_guidelines.pdf,source_rule
+Dhamra,MOOR-003,mooring_equipment,residual_rope_strength,Residual strength of mooring ropes in use shall not be less than 75% of the applicable requirement stated in the guideline.,75.0,% MBL,Dhamra Port Mooring Guidelines,dhamra_mooring_guidelines.pdf,source_rule

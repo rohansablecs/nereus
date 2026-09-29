@@ -1,0 +1,11 @@
+port,berth_no,designed_depth_m,permissible_draft_m,berth_length_m,permissible_loa_m,displacement_mt,constraint_variant
+Gangavaram,B1,14.0,13.0,275,230,65000,standard
+Gangavaram,B2,15.5,14.5,280,230,98000,standard
+Gangavaram,B3,15.5,15.0,280,230,98000,standard
+Gangavaram,B4,19.5,18.0,340,300,236000,standard
+Gangavaram,B5,19.5,18.0,320,292,236000,standard
+Gangavaram,B6,19.5,18.0,355,300,236000,standard
+Gangavaram,B7,15.5,14.5,235,200,98000,standard
+Gangavaram,B8,15.5,14.5,275,230,98000,standard
+Gangavaram,B9,15.5,15.5,337,310,98000,deep_draft
+Gangavaram,B9,15.5,13.5,337,290,98000,lower_draft

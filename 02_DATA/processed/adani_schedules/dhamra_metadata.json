@@ -1,0 +1,16 @@
+{
+  "port": "Dhamra",
+  "source_url": "https://www.adaniports.com/Ports-and-Terminals/dhamra-port/vesselschedule",
+  "source_type": "official_adani_server_rendered_schedule",
+  "snapshot_time_utc": "2026-09-08T12:56:28.658686+00:00",
+  "http_status": 200,
+  "html_bytes": 66977,
+  "section_counts": {
+    "at_berth": 18,
+    "at_anchorage": 0,
+    "expected": 14,
+    "sailed_24h": 2
+  },
+  "explicit_empty_sections": [],
+  "total_rows": 34
+}

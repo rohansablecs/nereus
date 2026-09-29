@@ -1,0 +1,4 @@
+berth,loa_m,displacement_mt,max_draft_m,allocation_priority
+B-1,300.0,145000.0,14.5,As per availability
+B-2,300.0,145000.0,14.5,Import coal
+B-3,200.0,75000.0,14.5,As per availability

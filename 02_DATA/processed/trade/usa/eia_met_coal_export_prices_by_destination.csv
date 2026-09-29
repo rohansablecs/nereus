@@ -1,0 +1,40 @@
+entity,q1_2026,q4_2025,q1_2025,ytd_2026,ytd_2025,percent_change,metric,unit,geography_level
+North America Total,128.04,134.19,132.2,128.04,132.2,-3.1,us_met_coal_export_price,usd_per_short_ton,destination_country
+Canada*,126.24,134.18,115.03,126.24,115.03,9.7,us_met_coal_export_price,usd_per_short_ton,destination_country
+Dominican Republic,,,95.22,,95.22,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Honduras,,,463.78,,463.78,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Other**,360.75,144.21,166.29,360.75,166.29,116.9,us_met_coal_export_price,usd_per_short_ton,destination_country
+South America Total,138.49,135.31,139.02,138.49,139.02,-0.4,us_met_coal_export_price,usd_per_short_ton,destination_country
+Argentina,152.41,133.51,141.6,152.41,141.6,7.6,us_met_coal_export_price,usd_per_short_ton,destination_country
+Brazil,138.14,135.42,138.95,138.14,138.95,-0.6,us_met_coal_export_price,usd_per_short_ton,destination_country
+Europe Total,137.03,136.26,141.17,137.03,141.17,-2.9,us_met_coal_export_price,usd_per_short_ton,destination_country
+Austria,,174.17,167.42,,167.42,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Belgium,121.63,126.96,145.98,121.63,145.98,-16.7,us_met_coal_export_price,usd_per_short_ton,destination_country
+Croatia,,162.02,173.96,,173.96,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Finland,149.72,153.67,,149.72,,,us_met_coal_export_price,usd_per_short_ton,destination_country
+France,140.96,123.54,148.49,140.96,148.49,-5.1,us_met_coal_export_price,usd_per_short_ton,destination_country
+"Germany, Federal Republic of",150.46,130.3,106.17,150.46,106.17,41.7,us_met_coal_export_price,usd_per_short_ton,destination_country
+Italy,141.44,142.09,132.15,141.44,132.15,7.0,us_met_coal_export_price,usd_per_short_ton,destination_country
+Netherlands,125.06,130.68,140.66,125.06,140.66,-11.1,us_met_coal_export_price,usd_per_short_ton,destination_country
+Norway,,363.27,272.29,,272.29,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Poland,151.5,146.07,134.33,151.5,134.33,12.8,us_met_coal_export_price,usd_per_short_ton,destination_country
+Spain,150.18,137.91,138.24,150.18,138.24,8.6,us_met_coal_export_price,usd_per_short_ton,destination_country
+Sweden,143.79,136.47,147.09,143.79,147.09,-2.2,us_met_coal_export_price,usd_per_short_ton,destination_country
+Turkey,141.07,140.95,115.7,141.07,115.7,21.9,us_met_coal_export_price,usd_per_short_ton,destination_country
+Ukraine,121.29,126.02,149.87,121.29,149.87,-19.1,us_met_coal_export_price,usd_per_short_ton,destination_country
+United Kingdom,157.85,,151.44,157.85,151.44,4.2,us_met_coal_export_price,usd_per_short_ton,destination_country
+Other**,200.49,,,200.49,,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Asia Total,140.55,123.88,133.03,140.55,133.03,5.7,us_met_coal_export_price,usd_per_short_ton,destination_country
+China,102.51,,109.68,102.51,109.68,-6.5,us_met_coal_export_price,usd_per_short_ton,destination_country
+India,138.74,122.94,132.05,138.74,132.05,5.1,us_met_coal_export_price,usd_per_short_ton,destination_country
+Indonesia,132.24,116.25,109.81,132.24,109.81,20.4,us_met_coal_export_price,usd_per_short_ton,destination_country
+Japan,144.74,130.59,149.94,144.74,149.94,-3.5,us_met_coal_export_price,usd_per_short_ton,destination_country
+Malaysia,156.97,119.19,184.44,156.97,184.44,-14.9,us_met_coal_export_price,usd_per_short_ton,destination_country
+South Korea (Republic of Korea),167.6,147.31,139.12,167.6,139.12,20.5,us_met_coal_export_price,usd_per_short_ton,destination_country
+Vietnam,151.49,130.86,179.92,151.49,179.92,-15.8,us_met_coal_export_price,usd_per_short_ton,destination_country
+Australia and Oceania Total,,,157.89,,157.89,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Other**,,,157.89,,157.89,,us_met_coal_export_price,usd_per_short_ton,destination_country
+Africa Total,58.06,65.7,157.27,58.06,157.27,-63.1,us_met_coal_export_price,usd_per_short_ton,destination_country
+Egypt,58.06,65.7,157.27,58.06,157.27,-63.1,us_met_coal_export_price,usd_per_short_ton,destination_country
+Total,138.57,130.07,136.91,138.57,136.91,1.2,us_met_coal_export_price,usd_per_short_ton,destination_country
+"* Based on the U.S. - Canada Free Trade Agreement; as of January 1990, the U.S. Department of Commerce began  reporting statistics on U.S. exports to Canada based on information on imports provided monthly by the Canadian government.** Includes countries with coal exports less than or equal to 50,000 short tons in 2025.- = No data reported.Note: Average price is based on the free alongside ship (f.a.s) value, including value for shipments of specialty coal not used as a fuel source (about 0.05 percent of all shipments). Total may not equal sum of components because of independent rounding.Source: U.S. Department of Commerce, Bureau of the Census, 'Monthly Report EM 545.'",,,,,,,us_met_coal_export_price,usd_per_short_ton,destination_country

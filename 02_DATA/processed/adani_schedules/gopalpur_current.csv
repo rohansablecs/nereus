@@ -1,0 +1,13 @@
+port,section,berth,sbu_name,vessel_name,direction,cargo,eta,ata,arrival_time,etc,expected_departure,pilot_on_board,pilot_disembark,actual_unberthing,snapshot_time_utc,source_url,source_type
+Gopalpur,at_berth,B3A,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B1A,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B3,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B2,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B1B,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,STJ1,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B2B,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B3B,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B2A,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,at_berth,B1,,,,,,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,expected,,FOR DRY CARGO VSL OPERATION,MV BBG HONG KONG,I,,2026-11-09,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule
+Gopalpur,expected,,FOR DRY CARGO VSL OPERATION,LUCKY GLORY,I,,2026-12-09,,,,,,,,2026-09-08 12:56:29.677948+00:00,https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule,official_adani_server_rendered_schedule

@@ -1,0 +1,20 @@
+{
+  "generated_at_utc": "2026-09-08T13:33:22.123759+00:00",
+  "rows": 7,
+  "ports": [
+    "Dhamra",
+    "Gopalpur",
+    "Visakhapatnam",
+    "Gangavaram",
+    "Haldia",
+    "Sagar-Sandheads",
+    "Paradip"
+  ],
+  "source_types": [
+    "official_current_schedule",
+    "official_daily_berthing_programme",
+    "official_operational_snapshot",
+    "official_daily_traffic_corpus"
+  ],
+  "snapshot_policy": "Each builder supplies its own latest-known operational snapshot. Snapshot timestamps are preserved as returned by the builder and data_age_hours is calculated from the timestamp against generation time."
+}

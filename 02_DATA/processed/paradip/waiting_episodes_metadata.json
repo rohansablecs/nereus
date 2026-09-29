@@ -1,0 +1,14 @@
+{
+  "dataset": "Paradip waiting episodes",
+  "status": "validated",
+  "generated_at_utc": "2026-09-08T12:51:03.166248+00:00",
+  "waiting_snapshots": 1469,
+  "unique_episodes": 13,
+  "matched_episodes": 4,
+  "unmatched_episodes": 9,
+  "unique_vessels": 13,
+  "target": "arrival_to_berth_hours",
+  "definition": "Elapsed time from reported arrival to first subsequent BERTHS event.",
+  "episode_definition": "Waiting snapshots sharing the same normalized vessel and reported arrival timestamp are treated as one episode.",
+  "apj_sethu_validation_hours": 50.2
+}

@@ -1,0 +1,6 @@
+parameter,value,unit,constraint_type,source_document
+Outer channel depth,17.5,m,navigation,dhamra_port_information.pdf
+Outer channel width,240,m,navigation,dhamra_port_information.pdf
+Inner channel width,170,m,navigation,dhamra_port_information.pdf
+Turning basin diameter,600,m,navigation,dhamra_port_information.pdf
+Navigation authority,Port authority final decision on vessel movements,,operational_rule,dhamra_port_information.pdf

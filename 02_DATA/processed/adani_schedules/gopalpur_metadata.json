@@ -1,0 +1,14 @@
+{
+  "port": "Gopalpur",
+  "source_url": "https://www.adaniports.com/ports-and-terminals/gopalpur-port/vesselschedule",
+  "source_type": "official_adani_server_rendered_schedule",
+  "snapshot_time_utc": "2026-09-08T12:56:29.677948+00:00",
+  "http_status": 200,
+  "html_bytes": 61043,
+  "section_counts": {
+    "at_berth": 10,
+    "expected": 2
+  },
+  "explicit_empty_sections": [],
+  "total_rows": 12
+}

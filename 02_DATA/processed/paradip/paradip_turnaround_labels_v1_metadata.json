@@ -1,0 +1,21 @@
+{
+  "source": "02_DATA/processed/paradip/berthing_movements_corpus_v3.csv",
+  "output": "02_DATA/processed/paradip/paradip_turnaround_labels_v1.csv",
+  "label_definition": "Observed operational berth cycle from the first BERTHS event after the previous SAILS event through the next SAILS event. Additional BERTHS events inside the cycle are treated as berth shifts.",
+  "rows": 683,
+  "duplicates_removed": 0,
+  "date_min": "2025-10-07T02:18:00",
+  "date_max": "2026-09-08T08:00:00",
+  "duration_days": {
+    "median": 1.8333333333333333,
+    "mean": 2.620607613469985,
+    "p90": 5.2041666666666675,
+    "p95": 6.977083333333333,
+    "max": 26.120833333333334
+  },
+  "productivity": {
+    "valid_rows": 683,
+    "median_mt_day": 21600.0,
+    "p90_mt_day": 62068.965517241384
+  }
+}

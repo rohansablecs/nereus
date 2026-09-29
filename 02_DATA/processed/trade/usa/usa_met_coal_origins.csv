@@ -1,0 +1,5 @@
+origin_id,origin_name,city,state,country,commodity,customs_district,eia_customs_name,status
+US_NORFOLK,Norfolk,Norfolk,VA,USA,metallurgical_coal,Norfolk,"Norfolk, VA",active
+US_BALTIMORE,Baltimore,Baltimore,MD,USA,metallurgical_coal,Baltimore,"Baltimore, MD",active
+US_MOBILE,Mobile,Mobile,AL,USA,metallurgical_coal,Mobile,"Mobile, AL",active
+US_NEW_ORLEANS,New Orleans,New Orleans,LA,USA,metallurgical_coal,New Orleans,"New Orleans, LA",active

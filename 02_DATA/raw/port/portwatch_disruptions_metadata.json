@@ -1,0 +1,30 @@
+{
+  "source": "IMF PortWatch",
+  "dataset": "portwatch_disruptions_database",
+  "source_url": "https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/portwatch_disruptions_database/FeatureServer/0/query",
+  "retrieved_at_utc": "2026-09-07T14:28:21.553709+00:00",
+  "query": {
+    "where": "1=1",
+    "fields": [
+      "eventid",
+      "eventtype",
+      "eventname",
+      "htmlname",
+      "htmldescription",
+      "alertlevel",
+      "country",
+      "fromdate",
+      "year",
+      "todate",
+      "severitytext",
+      "lat",
+      "long",
+      "editdate",
+      "affectedports",
+      "n_affectedports",
+      "affectedpopulation",
+      "pageid"
+    ]
+  },
+  "record_count": 132
+}

@@ -1,0 +1,54 @@
+{
+  "state_version": "v1",
+  "generated_at_utc": "2026-09-07T18:25:36.465522+00:00",
+  "ports": {
+    "visakhapatnam": {
+      "available": true,
+      "source": "Visakhapatnam Port",
+      "programme_date": "2026-09-07",
+      "snapshot_time_utc": "2026-09-07T16:27:01.661080+00:00",
+      "berths": {
+        "total_rows": 35,
+        "occupied": 17,
+        "vacant": 17,
+        "unavailable": 1,
+        "unknown_status": 0,
+        "occupancy_ratio": 0.4857
+      },
+      "waiting_expected": {
+        "available": true,
+        "vessels": 52,
+        "cargo_mt": 1961830.0,
+        "priority_vessels": 5,
+        "earliest_expected_date": "2026-08-30",
+        "latest_expected_date": "2026-09-26"
+      }
+    },
+    "gangavaram": {
+      "source": "Gangavaram Port",
+      "schedule": {
+        "available": true,
+        "vessels": 9,
+        "imports": 3,
+        "exports": 2,
+        "berths_in_use": 9
+      },
+      "expected": {
+        "available": true,
+        "vessels": 10,
+        "imports": 5,
+        "exports": 2,
+        "earliest_eta": "2026-09-06T18:00:00"
+      },
+      "recent_sailed": {
+        "available": true,
+        "vessels": 1
+      }
+    },
+    "haldia": {
+      "available": false,
+      "reason": "Current berth-position file contains no valid vessel records.",
+      "source": "Haldia Dock Complex"
+    }
+  }
+}

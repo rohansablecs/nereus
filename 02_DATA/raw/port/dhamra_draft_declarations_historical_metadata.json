@@ -1,0 +1,10 @@
+{
+  "port": "Dhamra",
+  "dataset": "Historical monthly draft declarations",
+  "coverage_start": "2017-12-01",
+  "coverage_end": "2017-12-31",
+  "berth_group": "BB1 & BB2 Import Berth",
+  "max_sw_arrival_draft_m": 17.2,
+  "status": "historical_only",
+  "warning": "The currently linked official Monthly Draft Declaration document is a December 2017 declaration. It must not be used as the current permissible draft."
+}

@@ -1,0 +1,84 @@
+snapshot_date,snapshot_time,sl_no,vessel_name,vcn,draft_m,loa_m,cargo_raw,anchoring_time_raw,eta_raw,document_readiness,final_readiness,estimated_completion_hours,source_page,source_document,raw_row
+2026-06-22,11:00,1,OLYMPIA ROAD,HAL12600414,4.6,99.98,,,,,,,6,haldia_tanker_lineup_2026-06-22.pdf,"1 OLYMPIA ROAD HAL12600414 4.60 99.98 BUTADIENE-(E)-3150 18(17:30) 17(16:27) 20(17:30) 20 SAMUDRA 
+MARINE HPL HPL HOJ-I
+B-16(O)
+Seniority at par with category 4 
+vessels, as vessel is waiting for more 
+than 48 hours."
+2026-06-22,11:00,2,NAUTILUS,HAL12600408,8.5,227.9,,,,,,,6,haldia_tanker_lineup_2026-06-22.pdf,"2 NAUTILUS HAL12600408 8.50 227.90 NAPHTHA-(I)-30000 21(17:30) 19(12:05) 21(17:30) HOJ-I=37
+HOJ-II&III=29
+INTEROCEAN 
+SHIPPING HPL HPL HOJ-I/HOJ-II/HOJ-III
+B-16(O)/17(O)/18(O)  Vessel called at B/18(O)"
+2026-06-22,11:00,3,SANMAR SNEHA,HAL12600426,8.0,200.0,,,,,,,6,haldia_tanker_lineup_2026-06-22.pdf,"3 SANMAR SNEHA HAL12600426 8.00 200.00 NAPHTHA-(I)-24835 21(19:12) 20(10:29) 21(19:12) HOJ-I=31
+HOJ-II&III=24 BEN LINE HPL HPL HOJ-I/HOJ-II/HOJ-III
+B-16(O)/17(O)/18(O)"
+2026-06-22,11:00,4,BADRINATH,HAL12600434,8.5,225.16,PROPANE-(I)-11231 BUTANE-(I)-12441 19(04:36),,,Not Ready,Not Ready,,6,haldia_tanker_lineup_2026-06-22.pdf,"4 BADRINATH HAL12600434 8.50 225.16 PROPANE-(I)-11231
+BUTANE-(I)-12441 19(04:36) Not Ready Not Ready N/A ATLANTIC 
+GLOBAL IOCL IOPPL HOJ-I/HOJ-II
+B-16(O)/17(O)
+1. Ullage confirmation & Readiness 
+Documents are awaited.
+2. As intimated by Terminal (IOPPL), 
+required ullage may be available on 
+23rd or 24th June'2026.
+3. Vessel neaped on 24th June'2026."
+2026-06-22,11:00,5,KRUIBEKE,HAL12600449,8.1,181.7,PROPANE-(I)-11750 19(20:36),,,Not Ready,Not Ready,,6,haldia_tanker_lineup_2026-06-22.pdf,"5 KRUIBEKE HAL12600449 8.10 181.70 PROPANE-(I)-11750 19(20:36) Not Ready Not Ready N/A ATLANTIC 
+GLOBAL IOCL IOPPL HOJ-I/HOJ-II
+B-16(O)/17(O)
+Ullage confirmation & Readiness 
+Documents are awaited."
+2026-06-22,11:00,6,PINZA,HAL12600422,8.3,230.0,PROPANE-(I)-10713 BUTANE-(I)-10451,,ETA-24(01:00),Not Ready,Not Ready,,6,haldia_tanker_lineup_2026-06-22.pdf,"6 PINZA HAL12600422 8.30 230.00 PROPANE-(I)-10713
+BUTANE-(I)-10451 ETA-24(01:00) Not Ready Not Ready N/A WILHELMSEN 
+PORT HPCL AEGIS HOJ-I/HOJ-II
+B-16(O)/17(O)
+Ullage confirmation & Readiness 
+Documents are awaited.
+PROPANE-(I)-8386.957
+BUTANE-(I)-8123.421 Not Ready Not Ready IOCL IOPPL HOJ-I/HOJ-II
+B-16(O)/17(O)
+PROPANE-(I)-3000
+BUTANE-(I)-3000 Not Ready Not Ready HPCL AEGIS HOJ-I/HOJ-II
+B-16(O)/17(O)
+Sl.No Vessels Name VCN Draft LOA Cargo (M.T.) Anchoring Time Document 
+Readiness Time
+Final Readiness 
+Time
+Estimated 
+Completion Time. 
+(in hrs)
+Agents Importer/ 
+Exporter Terminal Compatible Berth Remarks"
+2026-06-22,11:00,1,KS SCARLETT,HAL12600439,5.2,99.6,,,,,,,6,haldia_tanker_lineup_2026-06-22.pdf,"1 KS SCARLETT HAL12600439 5.20 99.60 LUBE OIL-(E)-4500 21(03:30) 21(11:05) 21(11:05) 24 SEAPORT 
+SERVICE IOCL IOCL HOJ-I
+B-16(O)"
+2026-06-22,11:00,2,HARI AKASH (COASTAL),HAL12600452,5.4,117.27,,,,,,,6,haldia_tanker_lineup_2026-06-22.pdf,"2 HARI AKASH
+(COASTAL) HAL12600452 5.40 117.27
+HSD-(E)5670
+MS-(E)1300
+ATF-(E )800
+22(10:00) 20(12:04) 22(10:00) 24 ATLANTIC 
+GLOBAL IOCL IOCL HOJ-I
+B-16(O)
+1.Vessel declared on 20(12:04)
+2. Reporting time as per agent."
+2026-06-22,11:00,3,DS COUGAR,HAL12600415,8.5,126.5,PARAXYLENE-(I)-10419,,ETA-25.06.2026,Not Ready,Not Ready,,6,haldia_tanker_lineup_2026-06-22.pdf,"3 DS COUGAR HAL12600415 8.50 126.50 PARAXYLENE-(I)-10419 ETA-25.06.2026 Not Ready Not Ready N/A SAMUDRA 
+MARINE MCPI MCPI HOJ-I & OT-II
+B-16(O) & OT-II
+Ullage confirmation & Readiness 
+Documents are awaited."
+2026-06-22,11:00,4,DS PANTHER,HAL12600433,7.8,128.6,PARAXYLENE-(I)- 9631.019,,ETA-27.06.2026,Not Ready,Not Ready,,6,haldia_tanker_lineup_2026-06-22.pdf,"4 DS PANTHER HAL12600433 7.80 128.60 PARAXYLENE-(I)-
+9631.019 ETA-27.06.2026 Not Ready Not Ready N/A SAMUDRA 
+MARINE MCPI MCPI HOJ-I & OT-II
+B-16(O) & OT-II
+Ullage confirmation & Readiness 
+Documents are awaited.
+Ullage confirmation & Readiness 
+Documents are awaited.
+Priority-5 (Trade Circular MTO/G/382/Pt-VI/GMT-65 date:-14/02/2017)
+कृ ते वरिष्ठ उप प्रबंधक (शिशपंग एवं का. है.)/एच डी सी
+For SDM (Sh & CH)/HDC
+हल्‍दिया गोिी परिसि / Haldia Dock Complex
+22/06/2026 को 11:00 बजे तक का टैंकि लाइन अप औि इनकी विीयता Tanker Line up and Seniority as on 22/06/2026 as at 11:00 Hrs.
+Priority-4 (Trade Circular MTO/G/382/Pt-VI/GMT-65 date:-14/02/2017)"
+2026-06-22,11:00,7,HELLAS DYNASTY,HAL12600456,8.6,229.95,,,ETA-26.06.2026,,,,6,haldia_tanker_lineup_2026-06-22.pdf,7 HELLAS DYNASTY HAL12600456 8.60 229.95 ETA-26.06.2026 N/A GAC SHIPPING

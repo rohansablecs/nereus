@@ -1,0 +1,73 @@
+port,location_type,status,berth,vessel_name,vcn,loa_m,draft_m,cargo,quantity_mt,direction,snapshot_date,snapshot_time,source_section,snapshot_time_utc,source_file
+Haldia,berth,vacant,10,nan,nan,,,nan,,nan,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,11,MSC TIGER F,HAL12600372R,154.51,,E-CONTAINER,"197(61x40'),",SLOT CHARTERER,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,12,AMNSI STALLION,HAL12600411,229.0,,I-LIMESTONE / TMILL,16285,TATA STEEL LTD.,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,13,SPETSES,HAL12600388,199.9,,I-MANGANESE ORE /,13540,VARIOUS,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,13,TREASURE STAR,HAL12600427,228.99,,I-AMMONIUM,4460,INDORAMA INDIA P,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,2,GOLDEN FELLOW,HAL12600409,229.0,,I-COKING COAL /MHC,31300,STEEL AUTHORITY,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,vacant,3,nan,nan,,,nan,,nan,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,4,CAMELIA,HAL12600398,126.5,,I-CPO,10980,PATANJ/KANPUR,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,vacant,4A,nan,nan,,,nan,,nan,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,vacant,4B,nan,nan,,,nan,,nan,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,vacant,5,nan,nan,,,nan,,nan,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,6,FORTUNE,HAL12600392,156.7,,I-CPO,17986,AWL AGRI BUSINES,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,7,ATHENA VOYAGE,HAL12600435,135.48,,I-BITUMEN,6642,UNITED FUTURISTI,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,vacant,8,nan,nan,,,nan,,nan,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,9,AMIS XCEL,HAL12600361,199.98,,I-SODA ASH [Manual,18264,LIBRA ALKALISCHE,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,HOJ-I,DING HENG 36,HAL12600396,149.79,,I-PARAXYLENE,14381,MCPI PRIVATE LIM,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,HOJ-I,DIONNE,HAL12600401,124.0,,E-LUBE OIL,,TRAFIGURA INDIA,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,HOJ-II,PINAR GAS,HAL12600418,225.49,,I-PROPANE,12250,INDIAN/HINDUS,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,HOJ-III,SANMAR SWARA,HAL12600402,228.49,,I-MS (COASTAL),12513,BHARAT PETROLEUM,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,berth,occupied,TERMINAL 2,HARI PRIYA,HAL12600354,183.0,,I-MS (COASTAL),1010,INDIAN OIL CORPO,2026-06-22,06:00,berth_occupancy,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,COLOMBIER,HAL12600399,229.0,7.4,COKING COAL / MHC,15000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,OLYMPIA ROAD,HAL12600414,99.98,4.6,BUTADIENE,3150,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,BADRINATH,HAL12600434,225.16,8.5,PROPANE BUTANE,11231 12441,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,KRUIBEKE,HAL12600449,181.7,8.1,PROPANE,11750,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,ADRE,HAL12600405,199.99,9.28,"MANGANESE (SG/SC-5000, HDC/MHC-30200) ORE",35200,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,KS SCARLETT,HAL12600439,99.6,5.2,LUBRICATING OIL,4500,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,PVT AVIRA,HAL12600395,179.88,7.5,CBFS,22800,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,ZUNAIRAH ZARISHA 4,HAL12600417,82.98,4.5,I-CONTAINER E-CONTAINER,110/0 38/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,RADHA MOHAN,HAL12600454,112.1,6.2,BITUMEN (COASTAL),2888,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,NAUTILUS,HAL12600408,227.9,8.4,NAPTHA,30000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SANMAR SNEHA,HAL12600426,200.0,8.2,NAPTHA,24835,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,TOMINI LIBERTY,HAL12600428,199.9,8.1,MANGANESE ORE /MHC,28000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,STAR ISLAND,HAL12600381,199.99,8.08,MANGANESE ORE /MHC,25500,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SC TIANJIN,HAL12600445,127.2,8.4,BENZENE (LAB),9796,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SSL THAMIRABARANI,HAL12600416,142.7,8.3,I-CONTAINER E-CONTAINER,350/0 450/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SITC MAKASSAR,HAL12600406,188.8,8.5,I-CONTAINER E-CONTAINER,530/0 5/2,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SINO SOURCE,HAL12600397,183.0,6.25,CDSBO,8165,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,JAG AMAIRA,HAL12600412,229.0,8.5,COKING COAL /GBTPL,30000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,AC YOUTH,HAL12600441,228.99,8.0,COKING COAL / ISPHL,30000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,HARI AKASH,HAL12600452,117.27,5.4,ATF HSD(COAS MS (COASTAL) (COASTAL) TAL),5670 1300 800,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,EDELWEISS,HAL12600451,228.9,8.0,COKING COAL /ISPHL,30000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,DING HENG 22,HAL12600432,111.98,7.0,ACETIC ACID,5998,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,BALBOA,HAL12600430,229.0,9.2,"LAM (SG/FC-5700,HDC/MHC-3 2800) COKE",38500,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,HAMPTON SKY,HAL12600431,228.9,8.1,COKING PCI COAL COAL /GBTPL /GBTPL,13335 17000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,XIN LONG YUN 58,HAL12600413,166.23,7.0,I-CONTAINER E-CONTAINER,450/0 20/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,PINZA,HAL12600422,230.0,8.3,PROPANE BUTANE,10713 10451,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,CRIMSON GLORY,HAL12600425,189.93,8.2,MANGANESE ORE /MHC,20070,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,MOUNT TAI 1,HAL12600437,112.21,7.8,COAL TAR (LIQUID),7100,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,HOANG HUY 79,HAL12600436,144.58,6.9,RAW /MHC PETROLEUM COKE,9003,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,DS COUGAR,HAL12600415,126.5,8.5,PARAXYLENE LIMESTONE / TMILL,10419 30000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,CHOLA DESTINY,HAL12600424,,,nan,,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,GREAT SAILOR,HAL12600455,135.0,8.2,CBFS,11567,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,FIRST HUNTER,HAL12600457,228.99,8.75,STEAM COAL /MHC,38000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,BTG APO,HAL12600447,229.0,8.5,LIMESTONE / TMILL,30000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,MSC CLEMENTINA F,HAL12600443,147.8,8.5,I-CONTAINER E-CONTAINER,200/0 3/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,NSG GLORY,HAL12600453,189.99,8.0,PYROXENITE,26705,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,HELLAS DYNASTY,HAL12600456,229.95,8.4,PROPANE BUTANE,11387 11123,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,MTM AMAZON,HAL12600440,170.0,7.2,CDSBO,13000,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SITC CAGAYAN,HAL12600423,188.8,8.5,I-CONTAINER E-CONTAINER,530/0 350/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,DS PANTHER,HAL12600433,128.6,8.5,PARAXYLENE,9631,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,PHILIPPA GLADYS,HAL12600444,134.85,8.1,CPO,11500,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,MSC MAKOTO II,HAL12600375,175.49,8.5,I-CONTAINER E-CONTAINER,200/0 95/48,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,GULF FANATIR,HAL12600419,183.22,8.2,CDSBO,21560,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,MEDI ROMA,HAL12600446,199.98,8.2,MANGANESE ORE /MHC,23300,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,MSC RIONA,HAL12600448,184.1,8.5,I-CONTAINER E-CONTAINER,200/0 200/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,ORCHARD STAR,HAL12600450,158.56,7.0,I-CONTAINER E-CONTAINER,450/0 450/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,BARROW ISLAND,HAL12600429,189.99,8.32,MANGANESE ORE /MHC,29200,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,MSC AKITETA II,HAL12600438,195.6,8.5,I-CONTAINER E-CONTAINER,200/0 200/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,XIN LONG YUN 58,HAL12600413R,166.23,7.0,I-CONTAINER E-CONTAINER,450/0 4/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SOL PIONEER,HAL12600442,149.6,6.5,E-CONTAINER,200/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,ORCHARD STAR,HAL12600450R,158.56,7.0,I-CONTAINER E-CONTAINER,450/0 4/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus
+Haldia,dock,due,,SITC PORT KLANG,HAL12600421,188.8,8.5,I-CONTAINER E-CONTAINER,530/0 350/0,,2026-06-22,,vessels_due,2026-09-08T12:58:42.414853+00:00,haldia_operational_corpus

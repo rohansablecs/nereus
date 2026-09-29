@@ -1,0 +1,10 @@
+{
+  "source": "Paradip Port Authority Daily Traffic Update",
+  "method": "Matched page-4 waiting vessels to page-6 BERTHS movements by vessel name and selected the first berthing at or after reported arrival.",
+  "generated_at_utc": "2026-09-07T20:04:51.538468+00:00",
+  "waiting_records": 13,
+  "movement_records": 12,
+  "berthing_records": 5,
+  "matched_observations": 4,
+  "unmatched_waiting_records": 9
+}

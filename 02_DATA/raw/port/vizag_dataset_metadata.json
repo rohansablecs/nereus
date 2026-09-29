@@ -1,0 +1,21 @@
+{
+  "port": "Visakhapatnam",
+  "berth_source": "https://vizagport.com/Template/navigateTemplate/gnt/QmVydGhz",
+  "programme_source": "https://vpt.shipping.gov.in/admin_assets/uploads/1788749943_Berthing_Programme_Working__Expected_Vessels_16_1.pdf",
+  "programme_date": "2026-09-07",
+  "retrieved_at_utc": "2026-09-07T16:25:22.062926+00:00",
+  "berth_rows": 23,
+  "programme_pdf_pages": 2,
+  "programme_text_characters": 7927,
+  "datasets": [
+    "vizag_berths_current.csv",
+    "vizag_berthing_programme_2026-09-07.pdf",
+    "vizag_berthing_programme_2026-09-07.txt"
+  ],
+  "notes": [
+    "Berth particulars are current VPA website data.",
+    "Berthing programme is a point-in-time operational snapshot.",
+    "Original programme PDF is retained.",
+    "No historical congestion values are inferred."
+  ]
+}

@@ -1,0 +1,5 @@
+port,cargo,operation,capacity_mt_per_day,qualification,source,capacity_mt_per_operation
+Dhamra,Coal,discharge,50000.0,over,BPTS introduction,
+Dhamra,Iron ore,loading,40000.0,over,BPTS introduction,
+Dhamra,Rail,loading,,1.25 hours per rake,BPTS introduction,
+Dhamra,Rail,unloading,,3 hours per fully loaded rake,BPTS introduction,

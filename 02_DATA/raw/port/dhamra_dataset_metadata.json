@@ -1,0 +1,19 @@
+{
+  "port": "Dhamra",
+  "source_documents": [
+    "dhamra_port_information.pdf",
+    "official Dhamra Port profile"
+  ],
+  "datasets": [
+    "dhamra_port_profile.csv",
+    "dhamra_berths.csv",
+    "dhamra_handling_capabilities.csv",
+    "dhamra_navigation_constraints.csv"
+  ],
+  "principles": [
+    "Original source PDF retained separately",
+    "No unsupported values invented",
+    "Rail loading capacity is not treated as vessel loading rate",
+    "Historical draft declarations are kept separate from current constraints"
+  ]
+}
