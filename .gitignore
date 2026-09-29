@@ -1,0 +1,25 @@
+
+# Node
+06_FRONTEND/node_modules/
+06_FRONTEND/.next/
+06_FRONTEND/out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
